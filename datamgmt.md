@@ -6,7 +6,7 @@ title: Data Management
 There will be transparency and sharing of codes and SNP data.
 
 <p align="center">
-// **Data will be shared to the public**
+ **Data will be shared to the public**
 </p>
 
 ### Data ownership
