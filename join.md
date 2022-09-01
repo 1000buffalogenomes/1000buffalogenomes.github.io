@@ -5,12 +5,8 @@ subtitle: The water buffalo is joining the race in genome research. Come and rid
 ---
 ### How to join?
 
+You can send an email to the following contact persons. Inquiries are welcome!
 
-Please contact Name Surname (email).
-
-or send an email to 1000buffalogenomes@gmail.com
-
-Inquiries are welcome!
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- [Lloyd Low](https://www.adelaide.edu.au/directory/wai.low) (wai.low@adelaide.edu.au) 
+- [Mehar Khatkar](https://www.sydney.edu.au/science/about/our-people/academic-staff/mehar-khatkar.html) (mehar.khatkar@adelaide.edu.au)
+- [Ester Flores](https://www.pcc.gov.ph/researcher/ester-flores/) (esterflrs@gmail.com) *from Philippine Carabao Center
