@@ -1,4 +1,7 @@
-# Data Management
+---
+layout: page
+title: Data Management
+---
 
 ### Data ownership
 

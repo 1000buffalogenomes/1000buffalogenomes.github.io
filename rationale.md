@@ -1,3 +1,7 @@
-**Rationale here**
+---
+layout: page
+---
+
+### Rationale
 
 Yes
