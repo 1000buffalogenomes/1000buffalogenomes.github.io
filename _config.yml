@@ -25,6 +25,7 @@ navbar-links:
   Project:
     - Rationale: "rationale"
     - Project outline: "projectdesc"
+    - Collaborations: "collab"
     - Committee: "committee"
     - Data: "datamgmt"
   Join: "join"
