@@ -1,7 +1,7 @@
 ---
 layout: page
 Title: Join Us
-Subtitle: Buffalo is joining the race in genome research. Come and hop in!
+Subtitle: Buffalo is joining the race in genome research. Come and ride in!
 ---
 ### How to join?
 
