@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Management
+title: Data
 ---
 
 There will be transparency and sharing of codes and SNP data.
