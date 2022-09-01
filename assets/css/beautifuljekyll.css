@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Trebuchet MS', 'Verdana', sans-serif;
+  font-family: 'Open Sans', 'Verdana', sans-serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
@@ -27,7 +27,7 @@ p {
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Trebuchet MS', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
   line-height: 1.1;
 }
@@ -489,7 +489,7 @@ footer .footer-custom-content {
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
-  font-family: 'Trebuchet MS', 'Verdana', serif;
+  font-family: 'Lora', 'Verdana', serif;
 }
 .post-heading .post-meta {
   display: inline-block;
