@@ -3,7 +3,7 @@ layout: page
 title: Data Management
 ---
 
-The goal of this project is to revolutionize the water buffalo genomic research through collating 1000 samples across population. There will be transparency and sharing of codes and SNP data.
+There will be transparency and sharing of codes and SNP data.
 
 <p align="center">
 // **Data will be shared to the public**
