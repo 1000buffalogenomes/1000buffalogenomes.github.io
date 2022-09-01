@@ -1,5 +1,3 @@
-#
-##
-### Rationale here
+**Rationale here**
 
 Yes
