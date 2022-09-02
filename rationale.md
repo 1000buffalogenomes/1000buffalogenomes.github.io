@@ -6,6 +6,8 @@ title: Rationale
 **Some one-liner here**
 </p>
 
+...in progress...
+
 The water buffalo (*Bubalus bubalis*) is a significant livestock for milk, meat and draft power in Asia. There are two types, the river- and swamp-type which differs in chromosome number, utility and geographical location; more diverse than the Bos taurus and Bos taurus indicus sub-species.
 
 The river-type buffalo is commonly utilised and has been bred for it’s dairy production while the swamp-type is utilised as a tractor for tilling farmlands and transporting crops.

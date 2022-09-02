@@ -13,10 +13,8 @@ The 1000 Buffalo Genomes Project is a collaboration of various organisations and
 </div></p>
 
 ### Collaborators
-These are the list of key-players in this project:
+Key-players in this project (hopefully more to be added ✨):
 - <a href="https://www.pcc.gov.ph/">Philippine Carabao Center</a>
-- list
-- list
 
 ### Goals
 - Organise research groups and harmonise our project direction for the water buffaloes
@@ -38,7 +36,7 @@ Continued collaborations of the International Water Buffalo consortium and avail
 
 ### How to Join
 <p> <div style="text-align: justify">
-We are actively looking for collaborators to expand the samples population. Please contact wai.low@adelaide.edu.au or 1000buffalogenomes@gmail.com for more information.
+We are actively looking for collaborators to expand the samples population. Please contact <span style="color:red">wai.low@adelaide.edu.au</span> or 1000buffalogenomes@gmail.com for more information. You can also go to our <a href="https://1000buffalogenomes.github.io/join/">Join</a> navigation page.
 </div> </p>
 
 <p> <div style="text-align: justify"> <span style="color:gray">
