@@ -41,6 +41,5 @@ Continued collaborations of the International Water Buffalo consortium and avail
 We are actively looking for collaborators to expand the samples population. Please contact wai.low@adelaide.edu.au or 1000buffalogenomes@gmail.com for more information.
 </div> </p>
 
-<p> <div style="text-align: justify"> <mark class="#505050">
-The 1000 Buffalo Genomes Project is initiated by Dr. Wai Yee Low (Lloyd Low) from University of Adelaide who also assembled the first <a href="https://www.nature.com/articles/s41467-018-08260-0">buffalo reference genome</a> as well as other <a href="https://www.nature.com/articles/s41467-020-15848-y">bovine reference genomes</a>.
-</p></div></mark>
+<p> <div style="text-align: justify"> <span style="color:gray">
+The 1000 Buffalo Genomes Project is initiated by Dr. Wai Yee Low (Lloyd Low) from University of Adelaide who also assembled the first <a href="https://www.nature.com/articles/s41467-018-08260-0">buffalo reference genome</a> as well as other <a href="https://www.nature.com/articles/s41467-020-15848-y">bovine reference genomes</a>.</span>
