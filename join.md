@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Join Us
-subtitle: The water buffalo is joining the race in genome research. Come and ride on!
+subtitle: The water buffalo wants to join the race in genome research. Come and ride on!
 ---
 ### How to join?
 
