@@ -4,18 +4,16 @@ title: About the project
 subtitle: Organization and Goals
 ---
 
-<div style="text-align: justify">
+<p><div style="text-align: justify">
 This project is still at its conceptualisation stage and we’re actively looking for collaborators to contribute to the 1000 buffalo genomes. If you already have SNPs data, you can directly contribute to this project. The genomes will be made up of both river and swamp buffalo including some conservation breeds. We’re planning to apply to Illumina’s Agricultural Greater Good Initiative with prize amounting up to $350,000 that allows for up to 1000 samples. Organising a consortium or group of researchers from multiple countries/organisations will strengthen the chance of winning this grant. Our efforts here, even if not funded by Illumina, can also potentially attract other fundings.
-</div>
+</div></p>
 
-<p align="center">
+<p><div style="text-align: justify">
 The 1000 Buffalo Genomes Project is a collaboration of various organisations and research group with the goal of sequencing different river- and swamp-type buffalo populations.
-</p>
+</div></p>
 
 ### Collaborators
-
 These are the list of key-players in this project:
-
 - <a href="https://www.pcc.gov.ph/">Philippine Carabao Center</a>
 - list
 - list
@@ -39,9 +37,10 @@ Continued collaborations of the International Water Buffalo consortium and avail
 </div>
 
 ### How to Join
-<div style="text-align: justify">
+<p> <div style="text-align: justify">
 We are actively looking for collaborators to expand the samples population. Please contact wai.low@adelaide.edu.au or 1000buffalogenomes@gmail.com for more information.
-</div>
+</div> </p>
 
-<div style="text-align: justify">
-The 1000 Buffalo Genomes Project is initiated by Dr. Wai Yee Low (Lloyd Low) from University of Adelaide who also assembled the first <a href="https://www.nature.com/articles/s41467-018-08260-0">buffalo reference genome</a> as well as other <a href="https://www.nature.com/articles/s41467-020-15848-y">bovine reference genomes</a>. 
+<p> <div style="text-align: justify"> <mark class="#505050">
+The 1000 Buffalo Genomes Project is initiated by Dr. Wai Yee Low (Lloyd Low) from University of Adelaide who also assembled the first <a href="https://www.nature.com/articles/s41467-018-08260-0">buffalo reference genome</a> as well as other <a href="https://www.nature.com/articles/s41467-020-15848-y">bovine reference genomes</a>.
+</p></div></mark>

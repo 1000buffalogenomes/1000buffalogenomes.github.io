@@ -3,17 +3,12 @@ layout: page
 title: Data
 ---
 
-<p align="center">
- **Data will be shared to the public**
-</p>
-
 ### Data ownership
 
-Data to be generated in this project will be open-source.
+Data to be generated in this project will be open-source. It will be shared to the public.
 
 ### Data storage
 
-<"may be on AWS- I think we can apply for a separate grant to AWS for subsidised/free data storage, analysis and sharing">
 Storage of the genome sequences are still in discussion and are looking at available options.
 
 ### Existing data
@@ -28,7 +23,7 @@ Available genome assemblies in NCBI and other public database:
 | 4   | [CUSA_SWP](https://ngdc.cncb.ac.cn/gwh/Assembly/262/show)          | swamp | Fuzhong        | [Luo at al., 2020](https://academic.oup.com/nsr/article/7/3/686/5737567#267352304)   |
 | 5   | [CUSA_RVB](https://ngdc.cncb.ac.cn/gwh/Assembly/261/show)          | river | Murrah         | [Luo at al., 2020](https://academic.oup.com/nsr/article/7/3/686/5737567#267352304)   |
 
-Additional data available from this study by [Luo et al., 2020](https://doi.org/10.1093/nsr/nwaa024)
+Additional data from this study by [Luo et al., 2020](https://doi.org/10.1093/nsr/nwaa024)
 - [Genome Variation Map](https://ngdc.cncb.ac.cn/gvm/getProjectDetail?project=GVM000043) from 230 Chinese swamp- and river-buffalo
 - [RNA-sequencing reads]() of swamp-buffalo from multiple tissues
 
