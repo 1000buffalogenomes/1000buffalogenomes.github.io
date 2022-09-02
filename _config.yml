@@ -21,13 +21,13 @@ author: Name Surname
 
 navbar-links:
   About Us: "aboutme"
-  News: "news"
   Project:
-    - Rationale: "rationale"
+    - Our story: "rationale"
     - Project outline: "projectdesc"
-    - Collaborations: "collab"
     - Committee: "committee"
     - Data: "datamgmt"
+  Collaborations: "collab"
+  News: "news"
   Join: "join"
 
 ################
