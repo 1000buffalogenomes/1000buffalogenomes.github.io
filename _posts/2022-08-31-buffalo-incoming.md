@@ -2,9 +2,9 @@
 layout: post
 title: Incoming buffaloes ahead! *sample post
 subtitle: Carabao racing is a thing in this town after pandemic restrictions loosen
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/buffalo-racing.jpg
 thumbnail-img: /assets/img/wb_test_icon.jpg
-share-img: /assets/img/path.jpg
+share-img: /assets/img/buffalo-racing.jpg
 tags: [genome, research]
 ---
 
