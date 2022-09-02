@@ -22,10 +22,12 @@ author: Name Surname
 navbar-links:
   About Us: "aboutme"
   Project:
-    - Our story: "rationale"
+    - Rationale: "rationale"
+    - The story: "story"
     - Project outline: "projectdesc"
     - Committee: "committee"
     - Data: "datamgmt"
+    - Technology: "technology"
   Collaborations: "collab"
   News: "news"
   Join: "join"

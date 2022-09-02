@@ -4,12 +4,17 @@ title: About the project
 subtitle: Organization and Goals
 ---
 
-This project is still at its conceptualisation stage and we’re still looking for collaborators to contribute to the 1000 buffalo genomes. If you already have SNPs data, you can directly contribute to this project. The genomes will be made up of both river and swamp buffalo including some conservation breeds. We’re planning to apply to Illumina’s Agricultural Greater Good Initiative with prize amounting up to $350,000 that allows for up to 1000 samples. Organising a consortium or group of researchers from multiple countries/organisations will strengthen the chance of winning this grant. Our efforts here, even if not funded by Illumina, can also potentially attract other fundings.
+<div style="text-align: justify">
+This project is still at its conceptualisation stage and we’re actively looking for collaborators to contribute to the 1000 buffalo genomes. If you already have SNPs data, you can directly contribute to this project. The genomes will be made up of both river and swamp buffalo including some conservation breeds. We’re planning to apply to Illumina’s Agricultural Greater Good Initiative with prize amounting up to $350,000 that allows for up to 1000 samples. Organising a consortium or group of researchers from multiple countries/organisations will strengthen the chance of winning this grant. Our efforts here, even if not funded by Illumina, can also potentially attract other fundings.
 </div>
 
-### The 1000 Buffalo Genomes Project is a collaboration of various organisations and research group with the goal of sequencing different river- and swamp-type buffalo populations.
+<p align="center">
+The 1000 Buffalo Genomes Project is a collaboration of various organisations and research group with the goal of sequencing different river- and swamp-type buffalo populations.
+</p>
 
 ### Collaborators
+
+These are the list of key-players in this project:
 
 - <a href="https://www.pcc.gov.ph/">Philippine Carabao Center</a>
 - list
