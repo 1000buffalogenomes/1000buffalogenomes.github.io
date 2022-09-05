@@ -10,6 +10,6 @@ title: Project outline
 - voluntary submissions
 - will submit application for grant
 
-<p><div style="text-align: center">
-<img src="/assets/img/method_framework.png" alt="Methodological framework">
-</div></p>
+<p align="center">
+  <img src=/assets/img/method_framework.png"" />
+</p>
