@@ -15,12 +15,11 @@ What we envision in this project is a beneficial collaborations within the water
 ### The water-buffaloes as a source of milk, meat, hide and draft-power
 
 #### River-type
-
-
+<img src="/assets/img/rb_1.jpg" alt="Philippine swamp buffalo">
 
 
 #### Swamp-type
-
+<img src="/assets/img/sb_1.jpg" alt="Philippine swamp buffalo">
 
 
 ### Genetic Improvement
