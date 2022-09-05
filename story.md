@@ -10,8 +10,5 @@ some text here
 
 < will make a video >
 
-a sustained and efficient farming through research for development
-
-
 <"Why water buffalo is important to poor people">
 <"This species is hardy and play a role in food security in the face of climate change">

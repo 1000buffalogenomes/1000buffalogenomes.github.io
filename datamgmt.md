@@ -5,7 +5,7 @@ title: Data
 
 ### Data ownership
 
-Data to be generated in this project will be open-source. It will be shared to the public.
+Data to be generated in this project will be open-source. It will be shared to the public. Since sequencing will be done in your respective laboratories, you will own those data. While these data will be pooled and accessible to everyone, use of these data should have the respective collaborator's permission.
 
 ### Data storage
 
