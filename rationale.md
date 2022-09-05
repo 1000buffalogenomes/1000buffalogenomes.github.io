@@ -18,8 +18,14 @@ What we envision in this project is a beneficial collaborations within the water
 <img src="/assets/img/rb_1.jpg" alt="Philippine swamp buffalo">
 
 
+
+
+
 #### Swamp-type
 <img src="/assets/img/sb_1.jpg" alt="Philippine swamp buffalo">
+
+Th swamp-type buffalo is natively found in China and Southeast Asia (SEA) commonly utilised for draft-power, mainly because the rural part of China and developing countries in SEA <smallhold farmers>
+
 
 
 ### Genetic Improvement
