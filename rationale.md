@@ -8,13 +8,9 @@ title: Rationale
 
 ...in progress...
 
-The water buffalo (*Bubalus bubalis*) is a significant livestock for milk, meat and draft power in Asia. There are two types, the river- and swamp-type which differs in chromosome number, utility and geographical location; more diverse than the Bos taurus and Bos taurus indicus sub-species.
+What we envision in this project is a beneficial collaborations within the water buffalo research community with harmonise objectives toward escalating genetic improvement and conservation of this animal. To continue the community's venture in buffalo research, we are laying out a large-scale project to discover SNPs from different buffalo population, open and accessible for everyone, thereby into an inclusive creation of technologies to upgrade the water buffaloes, especially for countries who do not have enough support or resources to sequence or genotype their own animals. While this project will only aim to sequence buffaloes across the world and discover SNPS, its vision is to boost buffalo genomic research and enhance the animals with technologies and developments that will branch out from this study. Ultimately, to maximise the production potential of this animal, a sustainable and efficient farming, uplift livelihoods of our farmers, contribute towards food security and genetic conservation in the face of climate change and agricultural industrialisation.
 
-The river-type buffalo is commonly utilised and has been bred for it’s dairy production while the swamp-type is utilised as a tractor for tilling farmlands and transporting crops.
-
-The river-type buffalo...
-
-The swamp-type buffalo, as a common and native animal in developing countries especially in Southeast Asia and rural parts of China, are bred and raised by smallhold farmers with little support for intensive breeding and selection. But it remains a significant livestock in farming even with the development of machinery and agricultural industrialisation. However, as the human population and the demand for efficient and higher production increases to suffice the growing population, conversion of farms into residential or commercial area and transition of farming to mechanisation will cause a significant impact in the number and utility of swamp-buffalo as a draft animal.
+### 
 
 <"Importanc
 <"How sequence analysis and SNP chip is important- for selective breeding, parentage, optimal mating, and diversity and conservation applications">
