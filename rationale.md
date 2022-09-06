@@ -17,19 +17,15 @@ What we envision in this project is a beneficial collaborations within the water
 #### River-type
 <img src="/assets/img/rb_1.jpg" alt="Philippine swamp buffalo">
 
-<p><div style="text-align: justify">
-<text>
-</div></p>
 
 
 
 
 #### Swamp-type
+
 <img src="/assets/img/sb_1.jpg" alt="Philippine swamp buffalo">
 
-<p><div style="text-align: justify">
-Th swamp-type buffalo is natively found in China and Southeast Asia (SEA) commonly utilised for draft-power, mainly because these countries
-</div></p>
+
 
 
 
@@ -37,20 +33,22 @@ Th swamp-type buffalo is natively found in China and Southeast Asia (SEA) common
 ### Genetic Improvement
 
 
-<"How sequence analysis and SNP chip is important- for selective breeding, parentage, optimal mating, and diversity and conservation applications">
+<How sequence analysis and SNP chip is important- for selective breeding, parentage, optimal mating, and diversity and conservation applications>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+India has the largest milk production in the world 
 
 ### Conservation and Biodiversity
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+While the advantage of selective breeding is to improve the production efficiency of an animal, it also contributes, however, to homogeneity of the population because of bull selections and artificial insemination. It might also introduce non-native genetics to a native population, thus losing the purity of a possibly conserved breed. It is essential to look into the genetic structures of their water buffalo population before the implementation of wide-scale genetic improvement to avoid mixing up the genetics of a native and imported animals/clusters. To parallelised genetic improvement with conservation, it is important to identify each population clusters for biodiversity and preservation.
 
 ### Climate change and food security
 
 #### Resilience and potential
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The water buffalo is known as a "hardy animal" for its ability to thrive in poor pastures and tropical areas. Moreover, this animal is also resistant to some bovine 
+
+<https://www.sciencedirect.com/science/article/pii/B9780123744074002296>
 
 #### Partners of smallhold farmers
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Most of the water-buffaloes are from smallhold farmers with only
