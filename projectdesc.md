@@ -11,5 +11,5 @@ title: Project outline
 - will submit application for grant
 
 <p align="center">
-  <img src=/assets/img/method_framework.png>
+  <img src="/assets/img/method_framework.png"/>
 </p>
