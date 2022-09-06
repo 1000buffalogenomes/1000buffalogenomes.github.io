@@ -16,7 +16,7 @@ What we envision in this project is a beneficial collaborations within the water
 
 #### River-type
 <img src="/assets/img/rb_1.jpg" alt="Philippine swamp buffalo">
-
+<small>Photo source from Philippine Carabao Center</small>
 
 
 
@@ -24,7 +24,7 @@ What we envision in this project is a beneficial collaborations within the water
 #### Swamp-type
 
 <img src="/assets/img/sb_1.jpg" alt="Philippine swamp buffalo">
-
+<small>Photo source from Philippine Carabao Center</small>
 
 
 
@@ -33,22 +33,24 @@ What we envision in this project is a beneficial collaborations within the water
 ### Genetic Improvement
 
 
-<How sequence analysis and SNP chip is important- for selective breeding, parentage, optimal mating, and diversity and conservation applications>
+<!-- How sequence analysis and SNP chip is important- for selective breeding, parentage, optimal mating, and diversity and conservation applications -->
 
-India has the largest milk production in the world 
+
 
 ### Conservation and Biodiversity
 
-While the advantage of selective breeding is to improve the production efficiency of an animal, it also contributes, however, to homogeneity of the population because of bull selections and artificial insemination. It might also introduce non-native genetics to a native population, thus losing the purity of a possibly conserved breed. It is essential to look into the genetic structures of their water buffalo population before the implementation of wide-scale genetic improvement to avoid mixing up the genetics of a native and imported animals/clusters. To parallelised genetic improvement with conservation, it is important to identify each population clusters for biodiversity and preservation.
+While the advantage of selective breeding is to improve the production efficiency of an animal, it also contributes, however, to homogeneity of the population because of bull selections and artificial insemination. It might also introduce non-native genetics to a native population, thus losing the purity of a possibly conserved breed. It is essential to look into the genetic structures of the water buffalo population before the implementation of wide-scale genetic improvement to avoid mixing up the genetics of a native and imported animals/clusters. To parallelised genetic improvement with conservation, it is important to identify each population clusters for biodiversity and preservation.
 
 ### Climate change and food security
 
 #### Resilience and potential
 
-The water buffalo is known as a "hardy animal" for its ability to thrive in poor pastures and tropical areas. Moreover, this animal is also resistant to some bovine 
+The water buffalo is known as a "hardy animal" for its ability to thrive in poor pastures and tropical areas due to their wallowing behavior. It converts low-quality roughages into high quality milk and meat because of it's specialised traits such as large rumen capacity and unique microflora, which also makes it digest higher than cattle. Moreover, it also has higher resistance to foot-and-mouth disease (FMD) and brucellosis. Some farmers are raising water buffalo as an alternative with cattle farming because of these specialised traits on top of its high milk fat and total solids content.
 
-<!-- https://www.sciencedirect.com/science/article/pii/B9780123744074002296 -->
+With global warming becoming more apparent in recent years and the continuos increase of human population and demand for nutrition, the water buffalo may play an important role as a source of milk and meat that thrives in hot and humid climate. Or if neglected, a possible decrease of this animal and endangerment or loss of rare native breeds.
+
+<!-- https://www.sciencedirect.com/science/article/pii/B9780123744074002296, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738740/ -->
 
 #### Partners of smallhold farmers
 
-Most of the water-buffaloes are from smallhold farmers with only
+
