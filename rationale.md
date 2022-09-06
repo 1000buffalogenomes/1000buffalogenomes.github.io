@@ -17,6 +17,9 @@ What we envision in this project is a beneficial collaborations within the water
 #### River-type
 <img src="/assets/img/rb_1.jpg" alt="Philippine swamp buffalo">
 
+<p><div style="text-align: justify">
+<text>
+</div></p>
 
 
 
@@ -24,11 +27,15 @@ What we envision in this project is a beneficial collaborations within the water
 #### Swamp-type
 <img src="/assets/img/sb_1.jpg" alt="Philippine swamp buffalo">
 
-Th swamp-type buffalo is natively found in China and Southeast Asia (SEA) commonly utilised for draft-power, mainly because the rural part of China and developing countries in SEA <smallhold farmers>
+<p><div style="text-align: justify">
+Th swamp-type buffalo is natively found in China and Southeast Asia (SEA) commonly utilised for draft-power, mainly because these countries
+</div></p>
+
 
 
 
 ### Genetic Improvement
+
 
 <"How sequence analysis and SNP chip is important- for selective breeding, parentage, optimal mating, and diversity and conservation applications">
 
