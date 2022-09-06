@@ -9,5 +9,5 @@ title: Collaborations
 
     If you are curious about this collaborator's information. Here's their Corporate AVP!
     <iframe width="420" height="315"
-    src="https://youtu.be/4lww4bt6nCY">
+    src="https://youtube.com/embed/4lww4bt6nCY">
     </iframe>
