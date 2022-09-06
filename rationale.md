@@ -47,7 +47,7 @@ While the advantage of selective breeding is to improve the production efficienc
 
 The water buffalo is known as a "hardy animal" for its ability to thrive in poor pastures and tropical areas. Moreover, this animal is also resistant to some bovine 
 
-<https://www.sciencedirect.com/science/article/pii/B9780123744074002296>
+<!-- https://www.sciencedirect.com/science/article/pii/B9780123744074002296 -->
 
 #### Partners of smallhold farmers
 
