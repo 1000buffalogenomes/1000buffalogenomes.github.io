@@ -8,6 +8,4 @@ title: Collaborations
     - They also have some SNP data from the 90K SNP panel for the above mentioned breeds
 
     If you are curious about this collaborator's information. Here's their Corporate AVP!
-    <iframe width="420" height="315"
-    src="https://youtube.com/embed/4lww4bt6nCY">
-    </iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/4lww4bt6nCY" frameborder="0" allowfullscreen></iframe>
