@@ -5,7 +5,7 @@ title: Data
 
 ### Data ownership
 
-Data to be generated in this project will be open-source. It will be shared to the public. Since sequencing will be done in your respective laboratories, you will own those data. While these data will be pooled and accessible to everyone, use of these data should have the respective collaborator's permission.
+Data to be generated in this project will be open-source. It will be shared to the public.
 
 ### Data storage
 
@@ -25,6 +25,5 @@ Available genome assemblies in NCBI and other public database:
 
 Additional data from this study by [Luo et al., 2020](https://doi.org/10.1093/nsr/nwaa024)
 - [Genome Variation Map](https://ngdc.cncb.ac.cn/gvm/getProjectDetail?project=GVM000043) from 230 Chinese swamp- and river-buffalo
-- [RNA-sequencing reads]() of swamp-buffalo from multiple tissues
 
 The [Philippine Carabao Center](https://www.pcc.gov.ph/) also have existing SNP data from the [90K SNP Panel](https://www.thermofisher.com/blog/behindthebench/improving-and-conserving-the-carabao-population-in-the-philippines-using-the-applied-biosystems-axiom-technology/) to contribute to the project.
