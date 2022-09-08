@@ -8,4 +8,7 @@ title: Collaborations
     - They also have some SNP data from the 90K SNP panel for the above mentioned breeds
 
     If you are curious about this collaborator's information. Here's their Corporate AVP!
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/4lww4bt6nCY" frameborder="0" allowfullscreen></iframe>
+    <iframe width="720" height="360" src="https://www.youtube.com/embed/4lww4bt6nCY" frameborder="0" allowfullscreen></iframe>
+
+- The [University of Adelaide](https://set.adelaide.edu.au/davies-research-centre/) has joined the project! (2022.08.31)
+    - They can contribute skills and computational resources.
