@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Rationale
+subtitle: Advancing buffalo genomics for food security
 ---
-<p align="center">
-**Advancing buffalo genomics for food security**
-</p>
 
 <!-- <span style="color:blue">...in progress...</span> -->
 
