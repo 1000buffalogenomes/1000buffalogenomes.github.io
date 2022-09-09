@@ -5,7 +5,7 @@ title: Data
 
 ### Data ownership
 
-Data to be generated in this project will be open-source. It will be shared to the public.
+Data to be generated in this project will be shared to the public at the end of the project.
 
 ### Data storage
 
@@ -27,3 +27,5 @@ Additional data from this study by [Luo et al., 2020](https://doi.org/10.1093/ns
 - [Genome Variation Map](https://ngdc.cncb.ac.cn/gvm/getProjectDetail?project=GVM000043) from 230 Chinese swamp- and river-buffalo
 
 The [Philippine Carabao Center](https://www.pcc.gov.ph/) also have existing SNP data from the [90K SNP Panel](https://www.thermofisher.com/blog/behindthebench/improving-and-conserving-the-carabao-population-in-the-philippines-using-the-applied-biosystems-axiom-technology/) to contribute to the project.
+
+We are also currently in-process of assembling a **swamp buffalo** genome which can be used to mine SNPs for the swamp-type buffalo.
