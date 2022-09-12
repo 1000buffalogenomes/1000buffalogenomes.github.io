@@ -3,7 +3,7 @@ layout: page
 title: Collaborations
 ---
 
-- [Dr. Đỗ Đức Lực](https://orcid.org/0000-0003-3364-1296) has joined the project! (2022.09.12)
+- [Dr. Đỗ Đức Lực](https://orcid.org/0000-0003-3364-1296) from Vietnam National University has joined the project! (2022.09.12)
     - They can contribute swamp buffalo samples from Vietnam.
     - He is the Head of Department of Animal Breeding and Genetics, Faculty of Animal Science, Vietnam National University of Agriculture
 

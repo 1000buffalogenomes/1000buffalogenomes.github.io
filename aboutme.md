@@ -17,7 +17,7 @@ Key-players in this project (hopefully more to be added ✨):
 - <a href="https://www.pcc.gov.ph/">Philippine Carabao Center</a>
 - <a href="https://set.adelaide.edu.au/davies-research-centre/">The University of Adelaide</a>
 - <a href="https://ansci.wsu.edu/people/faculty/zhihua-jiang/">Dr. Zhihua Jiang</a> from Washington State University
-- <a href="https://www.pcc.gov.ph/">Dr. Do Duc Luc</a> from Vietnam National University
+- <a href="https://fas.vnua.edu.vn/department/department-of-animal-breeding-and-genetics">Vietnam National University</a>
 
 ### Goals
 - Organise research groups and harmonise our project direction for the water buffaloes
