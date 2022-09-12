@@ -22,6 +22,9 @@ Sequencing data will be used for:
 - serves as reference population for imputation of SNP genotypes to WGS
 - verification of a pangenome graph (selected few only)
 
+#### Reference genome
+- We are currently assembing the Philippine carabao (swamp-type) which we can use as reference for swamp-type buffalo genomes while we can use existing assemblies for the river-type. Please see [Data](https://1000buffalogenomes.github.io/datamgmt/) for the available genome assemblies.
+
 If you have other questions, please feel free to [contact us](https://1000buffalogenomes.github.io/join/). 
 
 <p align="center">

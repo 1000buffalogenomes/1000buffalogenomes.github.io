@@ -13,7 +13,7 @@ Storage of the genome sequences are still in discussion and are looking at avail
 
 ### Existing data
 
-We are currently in-process of assembling a **swamp buffalo genome** which can be used to mine SNPs for the swamp-type buffalo.
+We are currently assembling a **swamp buffalo genome** which can be used to mine SNPs for the swamp-type buffalo.
 
 Available genome assemblies in NCBI and other public database:
 
