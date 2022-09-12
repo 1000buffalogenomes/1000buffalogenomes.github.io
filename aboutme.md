@@ -16,6 +16,7 @@ The 1000 Buffalo Genomes Project is a collaboration of various organisations and
 Key-players in this project (hopefully more to be added ✨):
 - <a href="https://set.adelaide.edu.au/davies-research-centre/">The University of Adelaide</a>
 - <a href="https://www.pcc.gov.ph/">Philippine Carabao Center</a>
+- <a href="https://ansci.wsu.edu/people/faculty/zhihua-jiang/">Zhihua Jiang</a>
 
 ### Goals
 - Organise research groups and harmonise our project direction for the water buffaloes

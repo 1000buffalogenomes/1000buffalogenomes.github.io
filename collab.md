@@ -3,7 +3,7 @@ layout: page
 title: Collaborations
 ---
 
-
+- [Dr. Zhihua Jiang](https://ansci.wsu.edu/people/faculty/zhihua-jiang/) has joined the project! (2022.09.12)
 - The [University of Adelaide](https://set.adelaide.edu.au/davies-research-centre/) has joined the project! (2022.08.31)
     - They can contribute skills and computational resources.
 
