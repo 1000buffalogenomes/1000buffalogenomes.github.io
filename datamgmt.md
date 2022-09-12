@@ -28,4 +28,4 @@ Available genome assemblies in NCBI and other public database:
 Additional data from this study by [Luo et al., 2020](https://doi.org/10.1093/nsr/nwaa024)
 - [Genome Variation Map](https://ngdc.cncb.ac.cn/gvm/getProjectDetail?project=GVM000043) from 230 Chinese swamp- and river-buffalo
 
-The [Philippine Carabao Center](https://www.pcc.gov.ph/) also have existing SNP data from the [90K SNP Panel](https://www.thermofisher.com/blog/behindthebench/improving-and-conserving-the-carabao-population-in-the-philippines-using-the-applied-biosystems-axiom-technology/) to contribute to the project.
+<!-- The [Philippine Carabao Center](https://www.pcc.gov.ph/) also have existing SNP data from the [90K SNP Panel](https://www.thermofisher.com/blog/behindthebench/improving-and-conserving-the-carabao-population-in-the-philippines-using-the-applied-biosystems-axiom-technology/) to contribute to the project. -->

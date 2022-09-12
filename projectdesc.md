@@ -10,7 +10,7 @@ title: Project outline
 - Ideally, 50% of the total samples would be from swamp-type and 50% from river-type, with conservation breeds included.
 - Target total number of samples would be 1000 water buffaloes across the world.
 - Minimum of 50 samples from each contributors. If you think you do not have enough animals in your area, do not hesitate to contact us since we would like to include breeds for conservation as well.
-- Sample collection (blood, tissue or semen), DNA extraction and shipping will be at the collaborator's own expense. Only the library prep and sequencing kit will be given grant. We also encourage in-house sequencing to avoid logistics problem; wherein we will have the kits shipped to you, and you do your own sequencing at your own laboratory. If you do not have the facility and capacity to do it on your own, we can discuss about it and arrange to do the extraction/sequencing through a service provider.
+- Sample collection (blood, tissue or semen), DNA extraction and shipping will be at the collaborator's own expense. Only the library prep and sequencing kit / sequencing service will be given grant. 
 
 #### Data storage and analysis
 
