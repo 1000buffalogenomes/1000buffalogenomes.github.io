@@ -3,7 +3,13 @@ layout: page
 title: Collaborations
 ---
 
+- [Dr. Đỗ Đức Lực](https://orcid.org/0000-0003-3364-1296) has joined the project! (2022.09.12)
+    - They can contribute swamp buffalo samples from Vietnam.
+    - He is the Head of Department of Animal Breeding and Genetics, Faculty of Animal Science, Vietnam National University of Agriculture
+
 - [Dr. Zhihua Jiang](https://ansci.wsu.edu/people/faculty/zhihua-jiang/) has joined the project! (2022.09.12)
+    - He is a Professor at the Washington State University specialising in Comparative Genome Biology
+
 - The [University of Adelaide](https://set.adelaide.edu.au/davies-research-centre/) has joined the project! (2022.08.31)
     - They can contribute skills and computational resources.
 
