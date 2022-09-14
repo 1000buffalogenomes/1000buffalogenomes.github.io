@@ -8,7 +8,16 @@ Ideally should be key sires used in production setting.
 
 ### How to provide samples? 
 
-Collaborators can contribute either tissue sample unit (TSU), blood, semen or DNA. If the samples are TSU, semen or blood, we need to ensure the collection was done in a way that allows for good quality DNA suitable for short read sequencing. If the samples are DNA, please make sure they passed the following metrics (link to be provided). We prefer if collaborators can extract quality DNA, however, we also support them if they need help in DNA extraction.  
+Collaborators can contribute either tissue sample unit (TSU), blood, semen or DNA. If the samples are TSU, semen or blood, we need to ensure the collection was done in a way that allows for good quality DNA suitable for short read sequencing. If the samples are DNA, please make sure they passed the following metrics.
+
+| Sample Type | Amount (Qubit) | Volume  | Concentration | Purity (Nanodrop™ & Agarose Gel Assessment)            |
+|-------------|----------------|---------|---------------|--------------------------------------------------------|
+| Genomic DNA | ≥ 200 ng       | ≥ 20 μL | ≥ 10ng/μL     | OD 260/280 = 1.8-2.0; no degradation, no contamination |
+
+* These metrics may change
+
+
+We prefer if collaborators can extract quality DNA, however, we also support them if they need help in DNA extraction.  
 
 ### How to sequence the samples?  
 
