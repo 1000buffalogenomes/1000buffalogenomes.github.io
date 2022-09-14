@@ -28,6 +28,8 @@ navbar-links:
     - Committee: "committee"
     - Data: "datamgmt"
     - Technology: "technology"
+  Resources:
+    - FAQ: "FAQ"
   Collaborations: "collab"
   News: "news"
   Join: "join"
