@@ -18,6 +18,7 @@ Key-players in this project (hopefully more to be added ✨):
 - <a href="https://set.adelaide.edu.au/davies-research-centre/">The University of Adelaide</a>
 - <a href="https://ansci.wsu.edu/people/faculty/zhihua-jiang/">Dr. Zhihua Jiang</a> from Washington State University
 - <a href="https://fas.vnua.edu.vn/department/department-of-animal-breeding-and-genetics">Vietnam National University</a>
+- <a href="https://uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/ali_raza.htm">University of Veterinary and Animal Sciences, Lahore</a>
 
 ### Goals
 - Organise research groups and harmonise our project direction for the water buffaloes
