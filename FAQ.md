@@ -3,7 +3,7 @@ layout: page
 title: Frequently Asked Questions
 ---
 
-### Sample selection standard: Should they be same sex?  
+### What sample? 
 Ideally should be key sires used in production setting.
 
 ### How to provide samples? 
