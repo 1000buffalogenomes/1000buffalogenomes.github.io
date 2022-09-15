@@ -14,11 +14,21 @@ The 1000 Buffalo Genomes Project is a collaboration of various organisations and
 
 ### Collaborators
 Key-players in this project (hopefully more to be added ✨):
-- <a href="https://www.pcc.gov.ph/">Philippine Carabao Center</a>
+
+- The University of Adelaide, Australia (Dr Lloyd Low, Dr Mehar Khatkar) 
+- China Academy of Agriculture, China (Dr Jianlin Han) 
+- China Agricultural University, China (Dr Yi Zhang) 
+- Tamil Nadu Veterinary and Animal Sciences University, India (Dr P. KUMARASAMY) 
+- University of Veterinary and Animal Sciences, Lahore, Pakistan (Prof. Dr. Ali Raza Awan) 
+- Philippine Carabao Center, Philippine (Paulene Pineda, Dr Ester Flores) 
+- Washington State University, USA, (Dr Zhihua Jiang) 
+- Vietnam National University, Vietnam (Dr Do Duc Luc)
+
+<!-- - <a href="https://www.pcc.gov.ph/">Philippine Carabao Center</a>
 - <a href="https://set.adelaide.edu.au/davies-research-centre/">The University of Adelaide</a>
 - <a href="https://ansci.wsu.edu/people/faculty/zhihua-jiang/">Dr. Zhihua Jiang</a> from Washington State University
 - <a href="https://fas.vnua.edu.vn/department/department-of-animal-breeding-and-genetics">Vietnam National University</a>
-- <a href="https://uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/ali_raza.htm">University of Veterinary and Animal Sciences, Lahore</a>
+- <a href="https://uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/ali_raza.htm">University of Veterinary and Animal Sciences, Lahore</a> -->
 
 ### Goals
 - Organise research groups and harmonise our project direction for the water buffaloes
