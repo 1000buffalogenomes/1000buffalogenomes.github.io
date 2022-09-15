@@ -31,7 +31,7 @@ navbar-links:
   Resources:
     - FAQ: "FAQ"
   Collaborations: "collab"
-  News: "news"
+  #News: "news"
   Join: "join"
 
 ################
