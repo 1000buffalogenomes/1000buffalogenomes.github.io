@@ -14,8 +14,6 @@ Collaborators can contribute either tissue sample unit (TSU), blood, semen or DN
 |-------------|------------|---------------|--------------------------------------------------------|-----|
 | Genomic DNA |     ≥ 1 μg | ≥ 20ng/μL     | OD 260/280 = 1.8-2.0; no degradation, no contamination | > 7 |
 
-* These metrics may change
-
 
 We prefer if collaborators can extract quality DNA, however, we also support them if they need help in DNA extraction.  
 
