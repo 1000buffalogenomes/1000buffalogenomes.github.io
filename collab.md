@@ -3,6 +3,8 @@ layout: page
 title: Collaborations
 ---
 
+- [Prof John Williams](https://pag.confex.com/pag/xxvi/meetingapp.cgi/Person/37549) from Università Cattolica del Sacro Cuore, Italy has joined the project!
+
 - [Dr. Jianlin Han](link) from China Academy of Agriculture has joined the project!
 
 - [Dr. Yi Zhang](link) from China Agricultural University has joined the project!
