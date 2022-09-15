@@ -3,7 +3,8 @@ layout: page
 title: Collaborations
 ---
 
-- [Prof. Dr. Ali Raza Awan](https://uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/ali_raza.htm) from University of Veterinary and Animal Sciences, Lahore has joined the project!
+- [Prof. Dr. Ali Raza Awan](https://uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/ali_raza.htm) from University of Veterinary and Animal Sciences, Lahore has joined the project! (2022.09.14)
+
 - [Dr. Đỗ Đức Lực](https://orcid.org/0000-0003-3364-1296) from Vietnam National University has joined the project! (2022.09.12)
     - They can contribute swamp buffalo samples from Vietnam.
     - He is the Head of Department of Animal Breeding and Genetics, Faculty of Animal Science, Vietnam National University of Agriculture
