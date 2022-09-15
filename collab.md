@@ -3,6 +3,12 @@ layout: page
 title: Collaborations
 ---
 
+-[Dr Jianlin Han](link) from China Academy of Agriculture
+
+-[Dr Yi Zhang](link) from China Agricultural University
+
+-[Dr.P.Kumarasamy](link) from Tamil Nadu Veterinary and Animal Sciences University
+
 - [Prof. Dr. Ali Raza Awan](https://uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/ali_raza.htm) from University of Veterinary and Animal Sciences, Lahore has joined the project! (2022.09.14)
 
 - [Dr. Đỗ Đức Lực](https://orcid.org/0000-0003-3364-1296) from Vietnam National University has joined the project! (2022.09.12)
