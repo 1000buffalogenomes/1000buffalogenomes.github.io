@@ -3,10 +3,12 @@ layout: page
 title: Collaborations
 ---
 
+- [Dr Mei Liu](https://www.researchgate.net/profile/Mei-Liu-18) from Hunan Agricultural University, China has joined the project!
+- [Dr Yang Zhou]() from Huazhong Agricultural University, China has joined the project!
 - [Prof John Williams](https://pag.confex.com/pag/xxvi/meetingapp.cgi/Person/37549) from Università Cattolica del Sacro Cuore, Italy has joined the project!
-- [Dr. Jianlin Han](link) from China Academy of Agriculture has joined the project!
-- [Dr. Yi Zhang](link) from China Agricultural University has joined the project!
-- [Dr. P.Kumarasamy](link) from Tamil Nadu Veterinary and Animal Sciences University has joined the project!
+- [Dr. Jianlin Han](https://www.researchgate.net/profile/Han-Jianlin/publications) from China Academy of Agriculture has joined the project!
+- [Dr. Yi Zhang](https://www.researchgate.net/profile/Yi-Zhang-256) from China Agricultural University has joined the project!
+- [Dr. P.Kumarasamy](https://www.linkedin.com/in/dr-p-kumarasamy-14027566/?originalSubdomain=in) from Tamil Nadu Veterinary and Animal Sciences University has joined the project!
 - [Prof. Dr. Ali Raza Awan](https://uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/ali_raza.htm) from University of Veterinary and Animal Sciences, Lahore has joined the project! (2022.09.14)
 - [Dr. Đỗ Đức Lực](https://orcid.org/0000-0003-3364-1296) from Vietnam National University has joined the project! (2022.09.12)
     - They can contribute swamp buffalo samples from Vietnam.
