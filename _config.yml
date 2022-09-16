@@ -26,9 +26,9 @@ navbar-links:
     - The story: "story"
     - Project outline: "projectdesc"
     - Committee: "committee"
-    - Data: "datamgmt"
     - Technology: "technology"
   Resources:
+    - Data: "datamgmt"
     - FAQ: "FAQ"
   Collaborations: "collab"
   #News: "news"
