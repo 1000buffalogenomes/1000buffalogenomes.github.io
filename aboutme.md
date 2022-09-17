@@ -23,6 +23,7 @@ Contributors listed alphabetically by country:
 - Huazhong Agricultural University, China (Dr Yang Zhou) 
 - Hunan Agricultural University, China (Dr Mei Liu)  
 - Tamil Nadu Veterinary and Animal Sciences University, India (Dr P. Kumarasamy)
+- Universitas Lampung, Indonesia (Dr Akhmad Dakhlan)
 - Università Cattolica del Sacro Cuore, Italy (Prof John Williams)
 - University of Veterinary and Animal Sciences, Lahore, Pakistan (Prof. Dr. Ali Raza Awan) 
 - Philippine Carabao Center, Philippine (Paulene Pineda, Dr Ester Flores) 
