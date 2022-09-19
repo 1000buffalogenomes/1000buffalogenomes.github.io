@@ -3,7 +3,7 @@ layout: page
 title: Committee
 ---
 
-There is still no official committee for this project, but these are the people who are currently organising the project:
+There is still no official committee for this project, but these are the people who are currently involved in the project:
 
 **Australia**
 - Lloyd Low
