@@ -17,7 +17,7 @@ Key-players in this project (hopefully more to be added ✨):
 
 Contributors listed alphabetically by country: 
 
-- The University of Adelaide, Australia (Dr Lloyd Low, Dr Mehar Khatkar, Dr Tong Chen) 
+- The University of Adelaide, Australia (Dr Lloyd Low, Dr Mehar Khatkar) 
 - China Academy of Agriculture, China (Dr Jianlin Han) 
 - China Agricultural University, China (Dr Yi Zhang) 
 - Huazhong Agricultural University, China (Dr Yang Zhou) 

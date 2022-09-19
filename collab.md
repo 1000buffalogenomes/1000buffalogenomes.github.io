@@ -5,7 +5,6 @@ title: Collaborations
 
 - [Dr Dwi Sendi Priyono](https://acadstaff.ugm.ac.id/dwisendipriyono) from Universitas Gadjah Mada, Indonesia has joined the project!
 - [Dr Akhmad Dakhlan](https://orcid.org/0000-0002-8438-6777) from Universitas Lampung, Indonesia has joined the project!
-- [Dr Tong Chen](https://www.adelaide.edu.au/directory/tong.chen) from The University of Adelaide, Australia has joined the project!
 - [Dr Mei Liu](https://www.researchgate.net/profile/Mei-Liu-18) from Hunan Agricultural University, China has joined the project!
 - [Dr Yang Zhou]() from Huazhong Agricultural University, China has joined the project!
 - [Prof John Williams](https://pag.confex.com/pag/xxvi/meetingapp.cgi/Person/37549) from Università Cattolica del Sacro Cuore, Italy has joined the project!
