@@ -3,7 +3,7 @@ layout: page
 title: Committee
 ---
 
-There is still no official committee for this project, but these are the people who are currently involved in the project:
+Current members of the consortium by country.
 
 **Australia**
 - Lloyd Low
