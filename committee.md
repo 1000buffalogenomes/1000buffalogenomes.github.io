@@ -31,6 +31,7 @@ Current members of the consortium by country.
 **Philippines**
 - Ester Flores
 - Paulene Pineda
+- Connie Joyce Parac
 
 **USA**
 - Zhihua Jiang

@@ -27,7 +27,7 @@ Contributors listed alphabetically by country:
 - Universitas Gadjah Mada, Indonesia (Dr Dwi Sendi Priyono)
 - Università Cattolica del Sacro Cuore, Italy (Prof John Williams)
 - University of Veterinary and Animal Sciences, Lahore, Pakistan (Prof. Dr. Ali Raza Awan) 
-- Philippine Carabao Center, Philippine (Paulene Pineda, Dr Ester Flores) 
+- Philippine Carabao Center, Philippine (Connie Joyce Parac, Paulene Pineda, Dr Ester Flores) 
 - Washington State University, USA, (Dr Zhihua Jiang) 
 - Vietnam National University, Vietnam (Dr Do Duc Luc)
 
