@@ -5,7 +5,7 @@ subtitle: Organization and Goals
 ---
 
 <p><div style="text-align: justify">
-This project is still at its conceptualisation stage, and we are actively looking for collaborators to contribute to the 1000 buffalo genomes. Below is a list of our current collaborators. If you already have sequenced data, you can directly contribute to this project. The samples will be made up of both swamp and river buffalo including some conservation breeds. We are applying for Illumina’s Agricultural Greater Good Initiative with prize amounting up to $350,000 that allows for up to 1000 samples.
+The project is at its conceptualisation stage and we welcome you to join the 1000 Buffalo Genomes Project. Below is a list of our current collaborators. If you already have sequenced data, you can directly contribute to this project. The samples will be made up of both swamp and river buffalo including some conservation breeds. We are applying for the Illumina’s Agricultural Greater Good Initiative with prize amounting up to $350,000 that allows for up to 1000 samples. We will also submit this project for other funding opportunities.
 </div></p>
 
 <p><div style="text-align: justify">
@@ -40,7 +40,7 @@ Contributors listed alphabetically by country:
 - <a href="https://uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/ali_raza.htm">University of Veterinary and Animal Sciences, Lahore</a> -->
 
 ### Goals
-- Organise research groups and harmonise our project direction for the water buffaloes
+- Organise research groups and harmonise our project direction for the water buffalo
 - Discover SNPs from 1000 water-buffalo samples
 - SNP array panel and low pass WGS + SNP capture
 - Design methods for genetic improvement and conservation
@@ -48,14 +48,14 @@ Contributors listed alphabetically by country:
 
 ### Data ownership
 <div style="text-align: justify">
-We would like to expand genome research in water buffaloes to fully utilise the potential of this animal in milk, meat, hide and draft power as well as for conservation purposes, hence there will be transparency in code and SNP data, and data generated in this project will be released to the public.
+We would like to expand genome research in water buffalo to fully utilise the potential of this animal in milk, meat, hide and draft power as well as for conservation purposes, hence there will be transparency in code and SNP data, and data generated in this project will be released to the public.
 
 In short, data will be open source.
 </div>
 
 ### Our vision
 <div style="text-align: justify">
-Continued collaborations with the International Water Buffalo consortium and availability of SNP data for genetic improvement and conservation of the water buffaloes.
+Continued collaborations with the International Water Buffalo consortium and availability of SNP data for genetic improvement and conservation of the water buffalo.
 </div>
 
 ### How to join
