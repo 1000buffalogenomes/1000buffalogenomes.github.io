@@ -29,7 +29,7 @@ Contributors listed alphabetically by country:
 - Urmia University, Iran (Dr Mahdi Mokhber)
 - University of Veterinary and Animal Sciences, Lahore, Pakistan (Prof. Dr. Ali Raza Awan) 
 - Philippine Carabao Center, Philippine (Connie Joyce Parac, Paulene Pineda, Dr Ester Flores)
-- Suranaree University of Technology (Dr Rangsun Parnpai)
+- Suranaree University of Technology, Thailand (Dr Rangsun Parnpai)
 - Washington State University, USA, (Dr Zhihua Jiang) 
 - Vietnam National University, Vietnam (Dr Do Duc Luc)
 
