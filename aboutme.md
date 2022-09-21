@@ -5,7 +5,7 @@ subtitle: Organization and Goals
 ---
 
 <p><div style="text-align: justify">
-This project is still at its conceptualisation stage and we are actively looking for collaborators to contribute to the 1000 buffalo genomes. Below is a list of our current collaborators. If you already have sequenced data, you can directly contribute to this project. The samples will be made up of both swamp and river buffalo including some conservation breeds. We are applying for Illumina’s Agricultural Greater Good Initiative with prize amounting up to $350,000 that allows for up to 1000 samples.
+This project is still at its conceptualisation stage, and we are actively looking for collaborators to contribute to the 1000 buffalo genomes. Below is a list of our current collaborators. If you already have sequenced data, you can directly contribute to this project. The samples will be made up of both swamp and river buffalo including some conservation breeds. We are applying for Illumina’s Agricultural Greater Good Initiative with prize amounting up to $350,000 that allows for up to 1000 samples.
 </div></p>
 
 <p><div style="text-align: justify">
@@ -50,7 +50,7 @@ Contributors listed alphabetically by country:
 <div style="text-align: justify">
 We would like to expand genome research in water buffaloes to fully utilise the potential of this animal in milk, meat, hide and draft power as well as for conservation purposes, hence there will be transparency in code and SNP data, and data generated in this project will be released to the public.
 
-In short, data will be open-source.
+In short, data will be open source.
 </div>
 
 ### Our vision

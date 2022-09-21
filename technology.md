@@ -4,7 +4,7 @@ layout: page
 
 These are some of the research and technologies that can be developed from the generation of SNP database for water-buffaloes:
 
-- **Design of inclusive or breed/trait spicific SNP chips**\
+- **Design of inclusive or breed/trait specific SNP chips**\
     The availability of genetic variants of different and each buffalo population will help in the design and creation of SNP panels or low-pass WGS capture inclusive to all types or specific to the breed/trait of interest.
 
 - **Development of breed specific assembly**\
