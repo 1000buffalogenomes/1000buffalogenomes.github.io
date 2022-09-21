@@ -26,8 +26,10 @@ Contributors listed alphabetically by country:
 - Universitas Lampung, Indonesia (Dr Akhmad Dakhlan)
 - Universitas Gadjah Mada, Indonesia (Dr Dwi Sendi Priyono)
 - Università Cattolica del Sacro Cuore, Italy (Prof John Williams)
+- Urmia University, Iran (Dr Mahdi Mokhber)
 - University of Veterinary and Animal Sciences, Lahore, Pakistan (Prof. Dr. Ali Raza Awan) 
-- Philippine Carabao Center, Philippine (Connie Joyce Parac, Paulene Pineda, Dr Ester Flores) 
+- Philippine Carabao Center, Philippine (Connie Joyce Parac, Paulene Pineda, Dr Ester Flores)
+- Suranaree University of Technology (Dr Rangsun Parnpai)
 - Washington State University, USA, (Dr Zhihua Jiang) 
 - Vietnam National University, Vietnam (Dr Do Duc Luc)
 

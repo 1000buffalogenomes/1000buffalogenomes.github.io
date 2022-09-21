@@ -3,6 +3,8 @@ layout: page
 title: Collaborations
 ---
 
+- [Dr Mahdi Mokhber](http://facultystaff.urmia.ac.ir/Site/CV.aspx?STID=577&Ln=en) from Urmia University, Iran has joined the project!
+- [Dr Rangsun Parnpai](https://beta.sut.ac.th/iat/en/academic-staff/assoc-prof-rangsun-parnpai-phd) from Suranaree University of Technology, Thailand has joined the project!
 - [Dr Dwi Sendi Priyono](https://acadstaff.ugm.ac.id/dwisendipriyono) from Universitas Gadjah Mada, Indonesia has joined the project!
 - [Dr Akhmad Dakhlan](https://orcid.org/0000-0002-8438-6777) from Universitas Lampung, Indonesia has joined the project!
 - [Dr Mei Liu](https://www.researchgate.net/profile/Mei-Liu-18) from Hunan Agricultural University, China has joined the project!

@@ -25,6 +25,9 @@ Current members of the consortium by country.
 **Italy**
 - John Williams
 
+**Iran**
+- Mahdi Mokhber
+
 **Pakistan**
 - Ali Raza Awan
 
@@ -32,6 +35,9 @@ Current members of the consortium by country.
 - Ester Flores
 - Paulene Pineda
 - Connie Joyce Parac
+
+**Thailand**
+- Rangsun Parnpai
 
 **USA**
 - Zhihua Jiang
