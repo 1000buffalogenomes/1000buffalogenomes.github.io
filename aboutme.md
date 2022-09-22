@@ -17,6 +17,7 @@ The 1000 Buffalo Genomes Project is a collaboration of various organisations and
 Contributors listed alphabetically by country: 
 
 - The University of Adelaide, Australia (Dr Lloyd Low, Dr Mehar Khatkar)
+- Escola de Medicina Veterinária e Zootecnia, Brazil (Dr Gregório Miguel Ferreira de Camargo)
 - China Academy of Agriculture, China (Dr Jianlin Han)
 - China Agricultural University, China (Dr Yi Zhang)
 - Huazhong Agricultural University, China (Dr Yang Zhou)
@@ -29,6 +30,7 @@ Contributors listed alphabetically by country:
 - University of Veterinary and Animal Sciences, Lahore, Pakistan (Prof. Dr. Ali Raza Awan)
 - Philippine Carabao Center, Philippine (Connie Joyce Parac, Dr Ester Flores, Paulene Pineda)
 - Suranaree University of Technology, Thailand (Dr Rangsun Parnpai)
+- Tekirdag Namık Kemal University, Turkey (Dr Emel Özkan Unal, Dr M.İhsan Soysal, Dr Raziye Isik)
 - Washington State University, USA, (Dr Zhihua Jiang)
 - Vietnam National University, Vietnam (Dr Do Duc Luc)
 

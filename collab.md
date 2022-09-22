@@ -3,6 +3,8 @@ layout: page
 title: Collaborations
 ---
 
+- [Dr Emel Özkan Unal, Dr M.İhsan Soysal and Dr Raziye Isik](http://www.nku.edu.tr/) from Tekirdag Namık Kemal University has joined the project!
+- [Dr Gregório Miguel Ferreira de Camargo](http://www.emevz.ufba.br/prof-dr-gregorio-miguel-ferreira-de-camargo) has joined the project!
 - [Dr Mahdi Mokhber](http://facultystaff.urmia.ac.ir/Site/CV.aspx?STID=577&Ln=en) from Urmia University, Iran has joined the project!
 - [Dr Rangsun Parnpai](https://beta.sut.ac.th/iat/en/academic-staff/assoc-prof-rangsun-parnpai-phd) from Suranaree University of Technology, Thailand has joined the project!
 - [Dr Dwi Sendi Priyono](https://acadstaff.ugm.ac.id/dwisendipriyono) from Universitas Gadjah Mada, Indonesia has joined the project!

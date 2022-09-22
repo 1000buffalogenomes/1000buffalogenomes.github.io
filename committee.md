@@ -3,11 +3,15 @@ layout: page
 title: Committee
 ---
 
-Current members of the consortium by country.
+Current members of the consortium by country.\
+*Total number of members:* 22
 
 **Australia**
 - Lloyd Low
 - Mehar Khatkar
+
+**Brazil**
+- Gregório Miguel Ferreira de Camargo
 
 **China**
 - Mei Liu
@@ -38,6 +42,11 @@ Current members of the consortium by country.
 
 **Thailand**
 - Rangsun Parnpai
+
+**Turkey**
+- Emel Özkan Unal
+- M.İhsan Soysal
+- Raziye Isik
 
 **USA**
 - Zhihua Jiang
