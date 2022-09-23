@@ -5,6 +5,7 @@ title: Committee
 
 Current members of the consortium by country.\
 *Total number of members:* 24
+*Total number of countries:* 13
 
 
 **Australia**
