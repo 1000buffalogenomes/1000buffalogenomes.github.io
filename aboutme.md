@@ -25,7 +25,7 @@ Contributors listed alphabetically by country:
 - Tamil Nadu Veterinary and Animal Sciences University, India (Dr P. Kumarasamy)
 - Universitas Lampung, Indonesia (Dr Akhmad Dakhlan)
 - Universitas Gadjah Mada, Indonesia (Dr Dwi Sendi Priyono)
-- Università Cattolica del Sacro Cuore, Italy (Prof John Williams)
+- Università Cattolica del Sacro Cuore, Italy (Dr Ajmone Marsan Paolo, Prof John Williams, Dr Licia Colli)
 - Urmia University, Iran (Dr Mahdi Mokhber)
 - University of Veterinary and Animal Sciences, Lahore, Pakistan (Prof. Dr. Ali Raza Awan)
 - Philippine Carabao Center, Philippine (Connie Joyce Parac, Dr Ester Flores, Paulene Pineda)
