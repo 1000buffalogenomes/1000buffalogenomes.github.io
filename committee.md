@@ -4,7 +4,7 @@ title: Committee
 ---
 
 Current members of the consortium by country.\
-*Total number of members:* 24\
+*Total number of members:* 26\
 *Total number of countries:* 13
 
 
@@ -23,6 +23,7 @@ Current members of the consortium by country.\
 
 **India**
 - P. Kumarasamy
+- Jaswinder Singh Bhatti
 
 **Indonesia**
 - Akhmad Dakhlan
@@ -46,6 +47,7 @@ Current members of the consortium by country.\
 
 **Thailand**
 - Rangsun Parnpai
+- Siri Tuk
 
 **Turkey**
 - Emel Özkan Unal
