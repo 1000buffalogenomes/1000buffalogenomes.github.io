@@ -4,7 +4,7 @@ title: Committee
 ---
 
 Current members of the consortium by country.\
-*Total number of members:* 26\
+*Total number of members:* 29\
 *Total number of countries:* 13
 
 
@@ -14,6 +14,7 @@ Current members of the consortium by country.\
 
 **Brazil**
 - Gregório Miguel Ferreira de Camargo
+- Humberto Tonhati
 
 **China**
 - Mei Liu
@@ -22,8 +23,10 @@ Current members of the consortium by country.\
 - Yi Zhang
 
 **India**
-- P. Kumarasamy
 - Jaswinder Singh Bhatti
+- Manishi Mukesh
+- P. Kumarasamy
+- Pawan Singh
 
 **Indonesia**
 - Akhmad Dakhlan

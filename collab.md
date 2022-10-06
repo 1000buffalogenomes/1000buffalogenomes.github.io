@@ -3,6 +3,8 @@ layout: page
 title: Collaborations
 ---
 
+- [Dr Humberto Tonhati](https://bv.fapesp.br/en/pesquisador/5974/humberto-tonhati) from São Paulo State University in Brazil has joined the project!
+- [Dr Pawan Singh]() and [Dr Manishi Mukesh](https://nbagr.icar.gov.in/en/manishi-mukesh/) from ICAR-National Dairy Research Institute, India has joined the project!
 - The [Department of Livestock Development](https://dld.go.th/th/index.php/th/) from Thailand has joined the project!
 - The [Progressive Dairy Farmers Association](https://www.pdfa.org.in/) from India has joined the project!
 - [Dr Ajmone Marsan Paolo](https://docenti.unicatt.it/ppd2/en/docenti/12543/paolo-ajmone-marsan/pubblicazioni) and [Dr Licia Colli](https://docenti.unicatt.it/ppd2/it/docenti/22106/licia-colli/profilo) from Università Cattolica del Sacro Cuore has joined the project!
