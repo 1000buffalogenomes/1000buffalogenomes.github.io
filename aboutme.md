@@ -25,7 +25,6 @@ Contributors listed alphabetically by country:
 - Hunan Agricultural University, China (Dr Mei Liu)
 - Tamil Nadu Veterinary and Animal Sciences University, India (Dr P. Kumarasamy)
 - Progressive Dairy Farmers Association, India (Dr Jaswinder Singh Bhatti)
-- ICAR-National Dairy Research Institute, India (Dr Manishi Mukesh and Pawan Singh)
 - Universitas Lampung, Indonesia (Dr Akhmad Dakhlan)
 - Universitas Gadjah Mada, Indonesia (Dr Dwi Sendi Priyono)
 - Università Cattolica del Sacro Cuore, Italy (Dr Ajmone Marsan Paolo, Prof John Williams, Dr Licia Colli)
