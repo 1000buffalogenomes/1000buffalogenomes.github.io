@@ -2,7 +2,8 @@
 layout: page
 title: Collaborations
 ---
-
+- [Nguyen Hoang Thinh]() from  Vietnam National University in Vietnam has joined the project!
+- [Stefano Biffani](https://ibba.cnr.it/staff/stefano-biffani/) from IBBA-CNR National Research Council in Brazil has joined the project!
 - [Dr Humberto Tonhati](https://bv.fapesp.br/en/pesquisador/5974/humberto-tonhati) from São Paulo State University in Brazil has joined the project!
 - The [Department of Livestock Development](https://dld.go.th/th/index.php/th/) from Thailand has joined the project!
 - The [Progressive Dairy Farmers Association](https://www.pdfa.org.in/) from India has joined the project!
