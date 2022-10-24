@@ -9,37 +9,38 @@ Current members of the consortium by country.\
 
 
 **Australia**
-- Lloyd Low
-- Mehar Khatkar
+- Dr. Lloyd Low
+- Dr. Mehar Khatkar
 
 **Brazil**
-- Gregório Miguel Ferreira de Camargo
-- Humberto Tonhati
+- Dr. Gregório Miguel Ferreira de Camargo
+- Dr. Humberto Tonhati
 
 **China**
-- Mei Liu
-- Jianlin Han
-- Yang Zhou
-- Yi Zhang
+- Dr. Jianlin Han
+- Dr. Yi Zhang
+- Dr. Yang Zhou
+- Dr. Mei Liu
 
 **India**
-- Jaswinder Singh Bhatti
-- P. Kumarasamy
+- Dr. Kumarasamy Peria Gounder
+- Dr. Jaswinder Singh Bhatti
 
 **Indonesia**
-- Akhmad Dakhlan
-- Dwi Sendi Priyono
+- Dr. Akhmad Dakhlan
+- Dr. Dwi Sendi Priyono
 
 **Italy**
-- Ajmone Marsan Paolo
-- John Williams
-- Licia Colli
+- Dr. Stefano Biffani 
+- Dr. Ajmone Marsan Paolo
+- Dr. John Williams
+- Dr. Licia Colli
 
 **Iran**
-- Mahdi Mokhber
+- Dr. Mahdi Mokhber
 
 **Pakistan**
-- Ali Raza Awan
+- Dr. Ali Raza Awan
 
 **Philippines**
 - Ester Flores
@@ -47,19 +48,21 @@ Current members of the consortium by country.\
 - Connie Joyce Parac
 
 **Thailand**
-- Rangsun Parnpai
-- Siri Tuk
+- Dr. Siri Tuk 
+- Dr. Rangsun Parnpai
+
 
 **Turkey**
-- Emel Özkan Unal
-- M.İhsan Soysal
-- Raziye Isik
+- Dr. Emel Özkan Unal
+- Dr. M.İhsan Soysal
+- Dr. Raziye Isik
 
 **USA**
-- Zhihua Jiang
+- Dr. Zhihua Jiang
 
 **Vietnam**
-- Do Duc Luc
+- Dr. Do Duc Luc
+- Dr. Nguyen Hoang Thinh
 
 
 <!--
