@@ -76,14 +76,14 @@ Urmia University, Dr. Mahdi Mokhber\
 University of Veterinary and Animal Science Lahore, Dr. Ali Raza Awan\
 **Philippines**\
 Philippine Carabao Center- Connie Joyce Parac, Ester Flores, Paulene Pineda\
-**Thailand**\ 
+**Thailand**\  
 Department of Livestock Development, Dr. Siri Tuk\
 Suranaree University of Technology, Dr. Rangsun Parnpai\
 **Turkey**\ 
 Tekirdag Namık Kemal University, Dr. Emel Özkan Unal, Dr. M.İhsan Soysal, Dr. Raziye Isik\
-**USA**\
-Washington State University- Dr. Zhihua Jiang\
-**Vietnam**\ 
+**USA**\ 
+Washington State University- Dr. Zhihua Jiang\ 
+**Vietnam**\  
 Vietnam National University- Dr. Do Duc Luc, Dr. Nguyen Hoang Thinh
 
 
