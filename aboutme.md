@@ -32,7 +32,7 @@ Progressive Dairy Farmers Association- Dr. Jaswinder Singh Bhatti\
 **Indonesia**\
 Universitas Lampung- Dr. Akhmad Dakhlan\
 Universitas Gadjah Mada- Dr. Dwi Sendi Priyono\
-**Italy**\ 
+**Italy**\
 Institute of Agricultural Biology and Biotechnology (IBBA-CNR/ANASB)- Dr. Stefano Biffani\
 Università Cattolica del Sacro Cuore- Dr. Ajmone Marsan Paolo, Dr. John Williams, Dr. Licia Colli\
 **Iran**\
@@ -46,7 +46,7 @@ Department of Livestock Development- Dr. Siri Tuk\
 Suranaree University of Technology- Dr. Rangsun Parnpai\
 **Turkey**\ 
 Tekirdag Namık Kemal University-  Dr. Emel Özkan Unal, Dr. M.İhsan Soysal, Dr. Raziye Isik\
-**USA**\ 
+**USA**\
 Washington State University- Dr. Zhihua Jiang\
 **Vietnam**\  
 Vietnam National University- Dr. Do Duc Luc, Dr. Nguyen Hoang Thinh
