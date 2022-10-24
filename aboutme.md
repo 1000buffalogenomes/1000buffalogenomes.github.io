@@ -16,35 +16,35 @@ The 1000 Buffalo Genomes Project is a collaboration of various organisations and
 
 Contributors listed alphabetically by country: 
 
-Australia, The University of Adelaide, Dr. Lloyd Low
-Australia, The University of Adelaide, Dr. Mehar Khatkar
-Brazil, Universidade Estadual Paulista (UNESP), Dr. Humberto Tonhati
-Brazil, Universidade Federal da Bahia (UFBA), Dr. Gregório Miguel Ferreira de Camargo
-China, China Academy of Agriculture, Dr. Jianlin Han
-China, China Agricultural University, Dr. Yi Zhang
-China, Huazhong Agricultural University, Dr. Yang Zhou
-China, Hunan Agricultural University, Dr. Mei Liu
-India, Tamil Nadu Veterinary and Animal Sciences University, Dr. Kumarasamy Peria Gounder
-India, Progressive Dairy Farmers Association, Dr. Jaswinder Singh Bhatti
-Indonesia, Universitas Lampung, Dr. Akhmad Dakhlan
-Indonesia, Universitas Gadjah Mada, Dr. Dwi Sendi Priyono
-Italy, Institute of Agricultural Biology and Biotechnology (IBBA-CNR/ANASB), Dr. Stefano Biffani
-Italy, Università Cattolica del Sacro Cuore, Dr. Ajmone Marsan Paolo
-Italy, Università Cattolica del Sacro Cuore, Dr. John Williams
-Italy, Università Cattolica del Sacro Cuore, Dr. Licia Colli
-Iran, Urmia University, Dr. Mahdi Mokhber
-Pakistan, University of Veterinary and Animal Science Lahore, Dr. Ali Raza Awan
-Philippines, Philippine Carabao Center, Connie Joyce Parac
-Philippines, Philippine Carabao Center, Ester Flores
-Philippines, Philippine Carabao Center, Paulene Pineda
-Thailand, Department of Livestock Development, Dr. Siri Tuk
-Thailand, Suranaree University of Technology, Dr. Rangsun Parnpai
-Turkey, Tekirdag Namık Kemal University, Dr. Emel Özkan Unal
-Turkey, Tekirdag Namık Kemal University, Dr. M.İhsan Soysal
-Turkey, Tekirdag Namık Kemal University, Dr. Raziye Isik
-USA, Washington State University, Dr. Zhihua Jiang
-Vietnam, Vietnam National University, Dr. Do Duc Luc
-Vietnam, Vietnam National University, Dr. Nguyen Hoang Thinh
+- Australia, The University of Adelaide, Dr. Lloyd Low
+- Australia, The University of Adelaide, Dr. Mehar Khatkar
+- Brazil, Universidade Estadual Paulista (UNESP), Dr. Humberto Tonhati
+- Brazil, Universidade Federal da Bahia (UFBA), Dr. Gregório Miguel Ferreira de Camargo
+- China, China Academy of Agriculture, Dr. Jianlin Han
+- China, China Agricultural University, Dr. Yi Zhang
+- China, Huazhong Agricultural University, Dr. Yang Zhou
+- China, Hunan Agricultural University, Dr. Mei Liu
+- India, Tamil Nadu Veterinary and Animal Sciences University, Dr. Kumarasamy Peria Gounder
+- India, Progressive Dairy Farmers Association, Dr. Jaswinder Singh Bhatti
+- Indonesia, Universitas Lampung, Dr. Akhmad Dakhlan
+- Indonesia, Universitas Gadjah Mada, Dr. Dwi Sendi Priyono
+- Italy, Institute of Agricultural Biology and Biotechnology (IBBA-CNR/ANASB), Dr. Stefano Biffani
+- Italy, Università Cattolica del Sacro Cuore, Dr. Ajmone Marsan Paolo
+- Italy, Università Cattolica del Sacro Cuore, Dr. John Williams
+- Italy, Università Cattolica del Sacro Cuore, Dr. Licia Colli
+- Iran, Urmia University, Dr. Mahdi Mokhber
+- Pakistan, University of Veterinary and Animal Science Lahore, Dr. Ali Raza Awan
+- Philippines, Philippine Carabao Center, Connie Joyce Parac
+- Philippines, Philippine Carabao Center, Ester Flores
+- Philippines, Philippine Carabao Center, Paulene Pineda
+- Thailand, Department of Livestock Development, Dr. Siri Tuk
+- Thailand, Suranaree University of Technology, Dr. Rangsun Parnpai
+- Turkey, Tekirdag Namık Kemal University, Dr. Emel Özkan Unal
+- Turkey, Tekirdag Namık Kemal University, Dr. M.İhsan Soysal
+- Turkey, Tekirdag Namık Kemal University, Dr. Raziye Isik
+- USA, Washington State University, Dr. Zhihua Jiang
+- Vietnam, Vietnam National University, Dr. Do Duc Luc
+- Vietnam, Vietnam National University, Dr. Nguyen Hoang Thinh
 
 
 ### Goals
