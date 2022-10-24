@@ -19,7 +19,7 @@ Contributors listed alphabetically by country:
 **Australia**
 - The University of Adelaide- Dr. Lloyd Low, Dr. Mehar Khatkar
 
-**Brazil** 
+<p**Brazil** 
 - Universidade Estadual Paulista (UNESP)- Dr. Humberto Tonhati
 - Universidade Federal da Bahia (UFBA)- Dr. Gregório Miguel Ferreira de Camargo
 **China**
