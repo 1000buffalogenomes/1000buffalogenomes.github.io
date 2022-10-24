@@ -28,26 +28,26 @@ Huazhong Agricultural University- Dr. Yang Zhou\
 Hunan Agricultural University- Dr. Mei Liu\
 **India**\
 Tamil Nadu Veterinary and Animal Sciences University- Dr. Kumarasamy Peria Gounder\
-Progressive Dairy Farmers Association, Dr. Jaswinder Singh Bhatti\
+Progressive Dairy Farmers Association- Dr. Jaswinder Singh Bhatti\
 **Indonesia**\
-Universitas Lampung, Dr. Akhmad Dakhlan\
-Universitas Gadjah Mada, Dr. Dwi Sendi Priyono\
-**Italy** \ 
-Institute of Agricultural Biology and Biotechnology (IBBA-CNR/ANASB), Dr. Stefano Biffani\
-Università Cattolica del Sacro Cuore, Dr. Ajmone Marsan Paolo, Dr. John Williams, Dr. Licia Colli\
+Universitas Lampung- Dr. Akhmad Dakhlan\
+Universitas Gadjah Mada- Dr. Dwi Sendi Priyono\
+**Italy**\ 
+Institute of Agricultural Biology and Biotechnology (IBBA-CNR/ANASB)- Dr. Stefano Biffani\
+Università Cattolica del Sacro Cuore- Dr. Ajmone Marsan Paolo, Dr. John Williams, Dr. Licia Colli\
 **Iran**\
-Urmia University, Dr. Mahdi Mokhber\
+Urmia University- Dr. Mahdi Mokhber\
 **Pakistan**\ 
-University of Veterinary and Animal Science Lahore, Dr. Ali Raza Awan\
+University of Veterinary and Animal Science Lahore- Dr. Ali Raza Awan\
 **Philippines**\
 Philippine Carabao Center- Connie Joyce Parac, Ester Flores, Paulene Pineda\
 **Thailand**\  
-Department of Livestock Development, Dr. Siri Tuk\
-Suranaree University of Technology, Dr. Rangsun Parnpai\
+Department of Livestock Development- Dr. Siri Tuk\
+Suranaree University of Technology- Dr. Rangsun Parnpai\
 **Turkey**\ 
-Tekirdag Namık Kemal University, Dr. Emel Özkan Unal, Dr. M.İhsan Soysal, Dr. Raziye Isik\
+Tekirdag Namık Kemal University-  Dr. Emel Özkan Unal, Dr. M.İhsan Soysal, Dr. Raziye Isik\
 **USA**\ 
-Washington State University- Dr. Zhihua Jiang\ 
+Washington State University- Dr. Zhihua Jiang\
 **Vietnam**\  
 Vietnam National University- Dr. Do Duc Luc, Dr. Nguyen Hoang Thinh
 
