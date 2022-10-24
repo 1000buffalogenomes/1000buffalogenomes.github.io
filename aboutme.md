@@ -51,16 +51,16 @@ Contributors listed alphabetically by country:
 | **Vietnam** |  |
 | Vietnam National University | Dr. Do Duc Luc<br>Dr. Nguyen Hoang Thinh |
 
-Australia\
+**Australia**\
 The University of Adelaide- Dr. Lloyd Low, Dr. Mehar Khatkar\
-Brazil\
+**Brazil**\
 Universidade Estadual Paulista (UNESP)- Dr. Humberto Tonhati\
 Universidade Federal da Bahia (UFBA)- Dr. Gregório Miguel Ferreira de Camargo\
-China\
+**China**\
 China Academy of Agriculture-  Dr. Jianlin Han\
 China Agricultural University- Dr. Yi Zhang\
 Huazhong Agricultural University- Dr. Yang Zhou\
-Hunan Agricultural University- Dr. Mei Liu\
+Hunan Agricultural University- Dr. Mei Liu
 
 
 
