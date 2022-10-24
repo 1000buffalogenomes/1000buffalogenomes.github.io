@@ -3,7 +3,7 @@ layout: page
 title: Collaborations
 ---
 - [Dr. Siri Tuk]() from the Department of Livestock Development in Thailand has joined the project!
-- [Dr. Jaswinder Singh Bhatti]() from Progressive Dairy Farmers Association in India has joined the project!
+- [Dr. Jaswinder Singh Bhatti]() from the Progressive Dairy Farmers Association in India has joined the project!
 - [Nguyen Hoang Thinh](https://www.researchgate.net/profile/Nguyen-Thinh-6) from  Vietnam National University in Vietnam has joined the project!
 - [Stefano Biffani](https://ibba.cnr.it/staff/stefano-biffani/) from IBBA-CNR National Research Council in Brazil has joined the project!
 - [Dr Humberto Tonhati](https://bv.fapesp.br/en/pesquisador/5974/humberto-tonhati) from São Paulo State University in Brazil has joined the project!
