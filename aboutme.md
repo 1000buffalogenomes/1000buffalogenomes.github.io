@@ -16,28 +16,29 @@ The 1000 Buffalo Genomes Project is a collaboration of various organisations and
 
 Contributors listed alphabetically by country: 
 
-**Australia**
+-**Australia**
 - The University of Adelaide- Dr. Lloyd Low, Dr. Mehar Khatkar
-
-<p>**Brazil**<p>
+-**Brazil**
 - Universidade Estadual Paulista (UNESP)- Dr. Humberto Tonhati
 - Universidade Federal da Bahia (UFBA)- Dr. Gregório Miguel Ferreira de Camargo
-**China**
+-**China**
 - China Academy of Agriculture-  Dr. Jianlin Han
 - China Agricultural University- Dr. Yi Zhang
 - Huazhong Agricultural University- Dr. Yang Zhou
 - Hunan Agricultural University- Dr. Mei Liu
-**India**
+-**India**
 - Tamil Nadu Veterinary and Animal Sciences University- Dr. Kumarasamy Peria Gounder
-- India, Progressive Dairy Farmers Association, Dr. Jaswinder Singh Bhatti
-- Indonesia, Universitas Lampung, Dr. Akhmad Dakhlan
-- Indonesia, Universitas Gadjah Mada, Dr. Dwi Sendi Priyono
-- Italy, Institute of Agricultural Biology and Biotechnology (IBBA-CNR/ANASB), Dr. Stefano Biffani
-- Italy, Università Cattolica del Sacro Cuore, Dr. Ajmone Marsan Paolo
-- Italy, Università Cattolica del Sacro Cuore, Dr. John Williams
-- Italy, Università Cattolica del Sacro Cuore, Dr. Licia Colli
-- Iran, Urmia University, Dr. Mahdi Mokhber
-- Pakistan, University of Veterinary and Animal Science Lahore, Dr. Ali Raza Awan
+- Progressive Dairy Farmers Association, Dr. Jaswinder Singh Bhatti
+- **Indonesia**
+- Universitas Lampung, Dr. Akhmad Dakhlan
+- Universitas Gadjah Mada, Dr. Dwi Sendi Priyono
+-**Italy** 
+- Institute of Agricultural Biology and Biotechnology (IBBA-CNR/ANASB), Dr. Stefano Biffani
+- Università Cattolica del Sacro Cuore, Dr. Ajmone Marsan Paolo, Dr. John Williams, Dr. Licia Colli
+- **Iran**
+- Urmia University, Dr. Mahdi Mokhber
+- **Pakistan** 
+- University of Veterinary and Animal Science Lahore, Dr. Ali Raza Awan
 - Philippines, Philippine Carabao Center, Connie Joyce Parac
 - Philippines, Philippine Carabao Center, Ester Flores
 - Philippines, Philippine Carabao Center, Paulene Pineda
@@ -60,16 +61,19 @@ Contributors listed alphabetically by country:
 - serve as reference imputation panel
 
 ### Data ownership
+
 <div style="text-align: justify">
 Data will be open source.
 </div>
 
 ### Our vision
+
 <div style="text-align: justify">
 Contribute to sustainable and efficient farming, uplift livelihood of farmers, enhancing food security and genetic conservation in the face of climate change.
 </div>
 
 ### How to join
+
 <div style="text-align: justify">
 We are actively looking for collaborators to expand the samples population. Please contact <span style="color:red">wai.low@adelaide.edu.au</span> or 1000buffalogenomes@gmail.com for more information. You can also go to our <a href="https://1000buffalogenomes.github.io/join/">Join</a> navigation page.
 </div>
