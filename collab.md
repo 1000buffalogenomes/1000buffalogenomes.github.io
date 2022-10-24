@@ -2,12 +2,14 @@
 layout: page
 title: Collaborations
 ---
+- [Dr. Siri Tuk] () from the Department of Livestock Development in Thailand has joined the project!
+- [Dr. Jaswinder Singh Bhatti] () from Progressive Dairy Farmers Association in India has joined the project!
 - [Nguyen Hoang Thinh](https://www.researchgate.net/profile/Nguyen-Thinh-6) from  Vietnam National University in Vietnam has joined the project!
 - [Stefano Biffani](https://ibba.cnr.it/staff/stefano-biffani/) from IBBA-CNR National Research Council in Brazil has joined the project!
 - [Dr Humberto Tonhati](https://bv.fapesp.br/en/pesquisador/5974/humberto-tonhati) from São Paulo State University in Brazil has joined the project!
 - The [Department of Livestock Development](https://dld.go.th/th/index.php/th/) from Thailand has joined the project!
 - The [Progressive Dairy Farmers Association](https://www.pdfa.org.in/) from India has joined the project!
-- [Dr Ajmone Marsan Paolo](https://docenti.unicatt.it/ppd2/en/docenti/12543/paolo-ajmone-marsan/pubblicazioni) and [Dr Licia Colli](https://docenti.unicatt.it/ppd2/it/docenti/22106/licia-colli/profilo) from Università Cattolica del Sacro Cuore has joined the project!
+- [Dr Ajmone Marsan Paolo](https://docenti.unicatt.it/ppd2/en/docenti/12543/paolo-ajmone-marsan/pubblicazioni), [John Williams](https://orcid.org/0000-0001-5188-7957), and [Dr Licia Colli](https://docenti.unicatt.it/ppd2/it/docenti/22106/licia-colli/profilo) from Università Cattolica del Sacro Cuore has joined the project!
 - [Dr Emel Özkan Unal, Dr M.İhsan Soysal and Dr Raziye Isik](http://www.nku.edu.tr/) from Tekirdag Namık Kemal University has joined the project!
 - [Dr Gregório Miguel Ferreira de Camargo](http://www.emevz.ufba.br/prof-dr-gregorio-miguel-ferreira-de-camargo) has joined the project!
 - [Dr Mahdi Mokhber](http://facultystaff.urmia.ac.ir/Site/CV.aspx?STID=577&Ln=en) from Urmia University, Iran has joined the project!
