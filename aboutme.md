@@ -16,6 +16,7 @@ The 1000 Buffalo Genomes Project is a collaboration of various organisations and
 
 Contributors listed alphabetically by country: 
 
+<!--
 **Australia**\
 The University of Adelaide- Dr. Lloyd Low, Dr. Mehar Khatkar\
 **Brazil**\
@@ -50,12 +51,9 @@ Tekirdag Namık Kemal University-  Dr. Emel Özkan Unal, Dr. M.İhsan Soysal, Dr
 Washington State University- Dr. Zhihua Jiang\
 **Vietnam**\
 Vietnam National University- Dr. Do Duc Luc, Dr. Nguyen Hoang Thinh
+-->
 
 
-
-
-
-<!--
 | **Australia** |  |
 | The University of Adelaide | Dr. Lloyd Low<br>Dr. Mehar Khatkar |
 | **Brazil** |  |
@@ -90,7 +88,7 @@ Vietnam National University- Dr. Do Duc Luc, Dr. Nguyen Hoang Thinh
 | Washington State University | Dr. Zhihua Jiang |
 | **Vietnam** |  |
 | Vietnam National University | Dr. Do Duc Luc<br>Dr. Nguyen Hoang Thinh |
--->
+
 
 
 ### Goals
