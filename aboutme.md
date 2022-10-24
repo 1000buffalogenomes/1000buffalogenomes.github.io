@@ -68,6 +68,7 @@ Progressive Dairy Farmers Association, Dr. Jaswinder Singh Bhatti\
 Universitas Lampung, Dr. Akhmad Dakhlan\
 Universitas Gadjah Mada, Dr. Dwi Sendi Priyono\
 **Italy**\
+\
 Institute of Agricultural Biology and Biotechnology (IBBA-CNR/ANASB), Dr. Stefano Biffani\
 Università Cattolica del Sacro Cuore, Dr. Ajmone Marsan Paolo, Dr. John Williams, Dr. Licia Colli\
 **Iran**\
