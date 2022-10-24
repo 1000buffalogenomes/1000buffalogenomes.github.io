@@ -51,19 +51,41 @@ Contributors listed alphabetically by country:
 - **Vietnam** 
 - Vietnam National University- Dr. Do Duc Luc, Dr. Nguyen Hoang Thinh
 
-| **Australia**                                        |                                         |
-|------------------------------------------------------|-----------------------------------------|
-| The University of Adelaide                           | Dr. Lloyd Low<br>Dr. Mehar Khatkar</b>  |
-| **Brazil**                                           |                                         |
-| Universidade Estadual Paulista (UNESP)               | Dr. Humberto Tonhati                    |
-| Universidade Federal da Bahia (UFBA)                 | Dr. Gregório Miguel Ferreira de Camargo |
-| **China**                                            |                                         |
-| China Academy of Agriculture                         | Dr. Jianlin Han                         |
-| China Agricultural University                        | Dr. Yi Zhang                            |
-| Huazhong Agricultural University                     | Dr. Yang Zhou                           |
-| Hunan Agricultural University                        | Dr. Mei Liu                             |
-| **India**                                            |                                         |
-| Tamil Nadu Veterinary and Animal Sciences University | Dr. Kumarasamy Peria Gounder            |
+| **Australia** |  |
+|---|---|
+| The University of Adelaide | Dr. Lloyd Low<br>Dr. Mehar Khatkar |
+| **Brazil** |  |
+| Universidade Estadual Paulista (UNESP) | Dr. Humberto Tonhati |
+| Universidade Federal da Bahia (UFBA) | Dr. Gregório Miguel Ferreira de Camargo |
+| **China** |  |
+| China Academy of Agriculture | Dr. Jianlin Han |
+| China Agricultural University | Dr. Yi Zhang |
+| Huazhong Agricultural University | Dr. Yang Zhou |
+| Hunan Agricultural University | Dr. Mei Liu |
+| **India** |  |
+| Tamil Nadu Veterinary and Animal Sciences University | Dr. Kumarasamy Peria Gounder |
+| Progressive Dairy Farmers Association | Dr. Jaswinder Singh Bhatti |
+| **Indonesia** |  |
+| Universitas Lampung | Dr. Akhmad Dakhlan |
+| Universitas Gadjah Mada | Dr. Dwi Sendi Priyono |
+| **Italy** |  |
+| Institute of Agricultural Biology and Biotechnology (IBBA-CNR/ANASB) | Dr. Stefano Biffani |
+| Università Cattolica del Sacro Cuore | Dr. Ajmone Marsan Paolo<br>Dr. John Williams<br>Dr. Licia Colli |
+| **Iran** |  |
+| Urmia University | Dr. Mahdi Mokhber |
+| **Pakistan** |  |
+| University of Veterinary and Animal Science Lahore | Dr. Ali Raza Awan |
+| **Philippines** |  |
+| Philippine Carabao Center | Connie Joyce Parac<br>Ester Flores<br>Paulene Pineda |
+| **Thailand** |  |
+| Department of Livestock Development | Dr. Siri Tuk |
+| Suranaree University of Technology | Dr. Rangsun Parnpai |
+| **Turkey** |  |
+| Tekirdag Namık Kemal University | Dr. Emel Özkan Unal<br>Dr. M.İhsan Soysal<br>Dr. Raziye Isik |
+| **USA** |  |
+| Washington State University | Dr. Zhihua Jiang |
+| **Vietnam** |  |
+| Vietnam National University | Dr. Do Duc Luc<br>Dr. Nguyen Hoang Thinh |
 
 
 
