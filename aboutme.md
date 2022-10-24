@@ -16,7 +16,7 @@ The 1000 Buffalo Genomes Project is a collaboration of various organisations and
 
 Contributors listed alphabetically by country: 
 
-<p> **Australia** </b>
+<p> **Australia** </p>
 - The University of Adelaide- Dr. Lloyd Low, Dr. Mehar Khatkar
 - **Brazil**
 - Universidade Estadual Paulista (UNESP)- Dr. Humberto Tonhati
