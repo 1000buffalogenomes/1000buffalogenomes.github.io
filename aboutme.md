@@ -69,8 +69,8 @@ Vietnam National University- Dr. Do Duc Luc, Dr. Nguyen Hoang Thinh
 | Progressive Dairy Farmers Association | Dr. Jaswinder Singh Bhatti |
 | Tamil Nadu Veterinary and Animal Sciences University | Dr. Kumarasamy Peria Gounder |
 | **Indonesia** |  |
-| Universitas Lampung | Dr. Akhmad Dakhlan |
 | Universitas Gadjah Mada | Dr. Dwi Sendi Priyono |
+| Universitas Lampung | Dr. Akhmad Dakhlan |
 | **Italy** |  |
 | Institute of Agricultural Biology and Biotechnology (IBBA-CNR/ANASB) | Dr. Stefano Biffani |
 | Università Cattolica del Sacro Cuore | Dr. Ajmone Marsan Paolo<br>Dr. John Williams<br>Dr. Licia Colli |
