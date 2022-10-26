@@ -4,7 +4,7 @@ title: Committee
 ---
 
 Current members of the consortium by country.\
-*Total number of members:* 27\
+*Total number of members:* 30\
 *Total number of countries:* 13
 
 
@@ -23,8 +23,9 @@ Current members of the consortium by country.\
 - Dr. Mei Liu
 
 **India**
-- Dr. Kumarasamy Peria Gounder
 - Dr. Jaswinder Singh Bhatti
+- Dr. Kumarasamy Peria Gounder
+- Dr.  Manishi Mukesh
 
 **Indonesia**
 - Dr. Akhmad Dakhlan
