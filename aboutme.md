@@ -72,7 +72,7 @@ Vietnam National University- Dr. Do Duc Luc, Dr. Nguyen Hoang Thinh
 | Universitas Gadjah Mada | Dr. Dwi Sendi Priyono |
 | Universitas Lampung | Dr. Akhmad Dakhlan |
 | **Italy** |  |
-| Institute of Agricultural Biology and Biotechnology (IBBA-CNR/ANASB) | Dr. Mayra Gómez Carpio<br>Roberta Cimmino<br>Dr. Stefano Biffani |
+| Institute of Agricultural Biology and Biotechnology (IBBA-CNR/ANASB) | Dr. Mayra Gómez Carpio<br>Dr. Roberta Cimmino<br>Dr. Stefano Biffani |
 | Università Cattolica del Sacro Cuore | Dr. Ajmone Marsan Paolo<br>Dr. John Williams<br>Dr. Licia Colli |
 | **Iran** |  |
 | Urmia University | Dr. Mahdi Mokhber |
