@@ -32,6 +32,8 @@ Current members of the consortium by country.\
 - Dr. Dwi Sendi Priyono
 
 **Italy**
+- Dr. Mayra Gómez Carpio
+- Dr. Roberta Cimmino
 - Dr. Stefano Biffani 
 - Dr. Ajmone Marsan Paolo
 - Dr. John Williams
