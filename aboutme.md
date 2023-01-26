@@ -5,7 +5,7 @@ subtitle: Organization and Goals
 ---
 
 <p><div style="text-align: justify">
-The project is at its conceptualisation stage and we welcome you to join the 1000 Buffalo Genomes Project. Below is a list of our current collaborators. If you already have sequenced data, you can directly contribute to this project. The samples will be made up of both swamp- and river-type buffalo including some conservation breeds. We are applying for the Illumina’s Agricultural Greater Good Initiative with prize amounting up to $350,000 that allows for up to 1000 samples. We will also submit this project for other funding opportunities.
+The project is at its conceptualisation stage and we welcome you to join the 1000 Buffalo Genomes Project. Below is a list of our current collaborators. If you already have sequenced data, you can directly contribute to this project. The samples will be made up of both swamp- and river-type buffalo including some conservation breeds. We will submit this project for other funding opportunities.
 </div></p>
 
 <p><div style="text-align: justify">
