@@ -64,6 +64,8 @@ Vietnam National University- Dr. Do Duc Luc, Dr. Nguyen Hoang Thinh
 | China Agricultural University | Dr. Yi Zhang |
 | Huazhong Agricultural University | Dr. Yang Zhou |
 | Hunan Agricultural University | Dr. Mei Liu |
+| **Columbia** |  |
+| Universidad CES | Dr. Divier Antonio Agudelo Gómez |
 | **India** |  |
 | ICAR-National Bureau of Animal Genetic Resources | Dr. Manishi Mukesh |
 | Progressive Dairy Farmers Association | Dr. Jaswinder Singh Bhatti |
