@@ -17,7 +17,7 @@ title: Project outline
 - We are partnering with Oracle Australia to implement cloud storage and analysis. A dedicated SNP calling pipeline will be implemented.
 
 #### Reference genome
-- We are currently assembling the Philippine carabao (swamp-type) that we can use as reference for this species.For the river-type, we can use the [UOA_WB_1](https://www.ncbi.nlm.nih.gov/assembly/GCF_003121395.1). There are other water buffalo assemblies that we can explore too. See [Data](https://1000buffalogenomes.github.io/datamgmt/) for the available genome assemblies.
+- We have assembled the reference genome for swamp buffalo [PCC_UOA_SB_1v2](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_029407905.1/).For the river-type, [UOA_WB_1](https://www.ncbi.nlm.nih.gov/assembly/GCF_003121395.1). There are other water buffalo assemblies that we can explore too. See [Data](https://1000buffalogenomes.github.io/datamgmt/) for the available genome assemblies.
 
 If you have other questions, please feel free to [contact us](https://1000buffalogenomes.github.io/join/). 
 
