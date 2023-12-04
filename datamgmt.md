@@ -3,6 +3,29 @@ layout: page
 title: Data
 ---
 
+### Request access of SNP data
+
+Please fill up to request access of data from this project:
+
+<form
+  action="https://formspree.io/f/meqbbbrl"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+
+or you can email us. Inquiries are welcome!
+- [Lloyd Low](https://www.adelaide.edu.au/directory/wai.low) (wai.low@adelaide.edu.au) 
+
 ### Data ownership
 
 Data to be generated in this project will be shared to the public at the end of the project.
