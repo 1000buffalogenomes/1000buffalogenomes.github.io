@@ -44,6 +44,8 @@ Current members of the consortium by country.\
 
 **Pakistan**
 - Dr. Ali Raza Awan
+- Dr. Asif Nadeem
+- Dr. Tanveer Hussain
 
 **Philippines**
 - Ester Flores
