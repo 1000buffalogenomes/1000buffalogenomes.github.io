@@ -80,6 +80,8 @@ Vietnam National University- Dr. Do Duc Luc, Dr. Nguyen Hoang Thinh
 | Urmia University | Dr. Mahdi Mokhber |
 | **Pakistan** |  |
 | University of Veterinary and Animal Science Lahore | Dr. Ali Raza Awan |
+| Virtual University of Pakistan- Lahore | Dr. Asif Nadeem |
+| Virtual University of Pakistan- Lahore | Dr. Tanveer Hussain |
 | **Philippines** |  |
 | Philippine Carabao Center | Connie Joyce Parac<br>Ester Flores<br>Paulene Pineda |
 | **Thailand** |  |
