@@ -11,6 +11,7 @@ Current members of the consortium by country.
 
 **Bangladesh**
 - Dr. Ashutosh Das
+- Dr. Gautam Kumar Deb
 
 **Brazil**
 - Dr. Gregório Miguel Ferreira de Camargo
