@@ -3,7 +3,7 @@ layout: page
 title: Committee
 ---
 
-Current members of the consortium by country.\
+Current members of the consortium by country.
 
 **Australia**
 - Dr. Lloyd Low
