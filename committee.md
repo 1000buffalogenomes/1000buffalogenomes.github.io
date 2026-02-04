@@ -9,6 +9,9 @@ Current members of the consortium by country.\
 - Dr. Lloyd Low
 - Dr. Mehar Khatkar
 
+**Bangladesh**
+- Dr. Ashutosh Das
+
 **Brazil**
 - Dr. Gregório Miguel Ferreira de Camargo
 - Dr. Humberto Tonhati
