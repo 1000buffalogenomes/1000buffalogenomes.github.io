@@ -23,6 +23,9 @@ Current members of the consortium by country.
 - Dr. Yang Zhou
 - Dr. Mei Liu
 
+**Colombia**
+- Dr. Divier Antonio Agudelo Gómez  
+
 **India**
 - Dr. Jaswinder Singh Bhatti
 - Dr. Kumarasamy Peria Gounder
@@ -48,6 +51,7 @@ Current members of the consortium by country.
 **Pakistan**
 - Dr. Ali Raza Awan
 - Dr. Asif Nadeem
+- Dr. Hamid Mustafa
 - Dr. Maryam Javed
 - Dr. Tanveer Hussain
 
