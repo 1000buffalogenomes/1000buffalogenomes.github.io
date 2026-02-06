@@ -26,7 +26,9 @@ Current members of the consortium by country.
 **India**
 - Dr. Jaswinder Singh Bhatti
 - Dr. Kumarasamy Peria Gounder
-- Dr.  Manishi Mukesh
+- Dr. Malarmathi Muthusamy
+- Dr. Manishi Mukesh
+- Dr. Pawan Singh
 
 **Indonesia**
 - Dr. Akhmad Dakhlan
@@ -46,10 +48,11 @@ Current members of the consortium by country.
 **Pakistan**
 - Dr. Ali Raza Awan
 - Dr. Asif Nadeem
+- Dr. Maryam Javed
 - Dr. Tanveer Hussain
 
 **Philippines**
-- Ester Flores
+- Dr. Ester Flores
 - Paulene Pineda
 - Connie Joyce Parac
 
@@ -57,6 +60,9 @@ Current members of the consortium by country.
 - Dr. Siri Tuk 
 - Dr. Rangsun Parnpai
 
+**Scotland**
+- Dr. James Prendergast
+- Dr. Fazeela Arshad
 
 **Turkey**
 - Dr. Emel Özkan Unal
