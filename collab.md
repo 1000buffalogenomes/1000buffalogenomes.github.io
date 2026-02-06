@@ -3,7 +3,14 @@ layout: page
 title: Collaborations
 ---
 - [Dr. Gautam Kumar Deb](https://scholar.google.com/citations?user=-mJvYHYAAAAJ&hl=en) from Bangladesh Livestock Research Institute and [Dr. Ashutosh Das](https://scholar.google.com/citations?user=tlFVNtgAAAAJ&hl=en) from Chattogram Veterinary and Animal Sciences University in Bangladesh have joined the project! (2025.11.28)
-- [Dr. Asif Nadeem](https://uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/asif.htm) and [Dr. Tanveer Hussain] from Virtual University of Pakistan- Lahore has joined the project!
+- [Dr. Pawan Singh]() from ICAR-National Dairy Research Institute in India has joined the project!
+- [Dr. Maryam Javed](https://www.uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/maryam-javed.htm) from the University of veteriVary and Animal Science, Lahore in Pakistan has joined the project!
+- [Dr. Asif Nadeem](https://uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/asif.htm) and [Dr. Tanveer Hussain](https://www.vu.edu.pk/AboutUs/Profile?profileID=1437&Dept=) from Virtual University of Pakistan- Lahore has joined the project!
+- [Dr. Malarmathi Muthusamy](https://scholar.google.com/citations?user=9eNAX8oAAAAJ&hl=en) from Tamil Nadu Veterinary and Animal Sciences University in India has joined the project!
+- [Dr. James Prendergast](https://edwebprofiles.ed.ac.uk/profile/james-prendergast) and [Dr. Fazeela Arshad](https://www.researchgate.net/profile/Fazeela-Arshad)from The University of Edinburgh in Scotland has joined the project!
+- [Dr. Hamid Mustafa](https://scholar.google.com/citations?user=IwgX4-EAAAAJ&hl=en) from the University of Veterinary and Animal Sciences (UVAS), Lahore in Pakistan has joined the project!
+- [Dr. Divier Antonio Agudelo Gómez](https://scholar.google.com/citations?user=-vFrWSgAAAAJ&hl=es) from Universidad CES in Colombia has joined the project!
+- [Dr. Mayra Gomez Carpio](https://orcid.org/0000-0002-3426-2231) and [Dr. Roberta Cimmino](https://orcid.org/0000-0002-0146-1787) from ANASB (Italian National Association of Buffalo Breeders) in Italy have joined the project!
 - [Dr Manishi Mukesh](https://nbagr.icar.gov.in/en/manishi-mukesh/) from ICAR-National Bureau of Animal Genetic Resources in India has joined the project!
 - [Nguyen Hoang Thinh](https://www.researchgate.net/profile/Nguyen-Thinh-6) from  Vietnam National University in Vietnam has joined the project!
 - [Stefano Biffani](https://ibba.cnr.it/staff/stefano-biffani/) from IBBA-CNR National Research Council in Brazil has joined the project!
