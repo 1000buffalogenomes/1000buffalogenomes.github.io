@@ -27,6 +27,7 @@ Current members of the consortium by country.
 - Dr. Divier Antonio Agudelo Gómez  
 
 **India**
+- Dr. Chitra Ramasamy
 - Dr. Jaswinder Singh Bhatti
 - Dr. Kumarasamy Peria Gounder
 - Dr. Malarmathi Muthusamy
