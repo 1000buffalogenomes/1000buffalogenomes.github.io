@@ -59,6 +59,9 @@ Vietnam National University- Dr. Do Duc Luc, Dr. Nguyen Hoang Thinh
 
 | **Australia** |  |
 | The University of Adelaide | Dr. Lloyd Low<br>Dr. Mehar Khatkar |
+| **Bangladesh** |  |
+| Bangladesh Livestock Research Institute  | Dr. Gautam Kumar Deb |
+| Chattogram Veterinary and Animal Sciences University | Dr. Ashutosh Das |
 | **Brazil** |  |
 | Universidade Estadual Paulista (UNESP) | Dr. Humberto Tonhati |
 | Universidade Federal da Bahia (UFBA) | Dr. Gregório Miguel Ferreira de Camargo |
