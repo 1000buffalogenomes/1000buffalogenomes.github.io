@@ -89,7 +89,7 @@ Vietnam National University- Dr. Do Duc Luc, Dr. Nguyen Hoang Thinh
 | University of Veterinary and Animal Science Lahore | Dr. Ali Raza Awan <br> Dr. Maryam Javed |
 | Virtual University of Pakistan- Lahore | Dr. Asif Nadeem <br> Dr. Tanveer Hussain |
 | **Philippines** |  |
-| Philippine Carabao Center | Connie Joyce Parac<br>Ester Flores<br>Paulene Pineda |
+| Philippine Carabao Center | Connie Joyce Parac<br> Dr. Ester Flores<br> Dr. Paulene Pineda |
 |**Sri Lanka** |  |
 | University of Peradeniya | Dr. Pradeepa Silva |
 | **Thailand** |  |
