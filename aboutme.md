@@ -76,7 +76,7 @@ Vietnam National University- Dr. Do Duc Luc, Dr. Nguyen Hoang Thinh
 | **India** |  |
 | ICAR-National Bureau of Animal Genetic Resources | Dr. Manishi Mukesh <br> Dr. Pawan Singh |
 | Progressive Dairy Farmers Association | Dr. Jaswinder Singh Bhatti |
-| Tamil Nadu Veterinary and Animal Sciences University | Dr. Kumarasamy Peria Gounder <br>  Dr. Chitra Ramasamy |
+| Tamil Nadu Veterinary and Animal Sciences University | Dr. Kumarasamy Peria Gounder <br>  Dr. Chitra Ramasamy <br> Dr. Malarmathi Muthusamy|
 | **Indonesia** |  |
 | Universitas Gadjah Mada | Dr. Dwi Sendi Priyono |
 | Universitas Lampung | Dr. Akhmad Dakhlan |
