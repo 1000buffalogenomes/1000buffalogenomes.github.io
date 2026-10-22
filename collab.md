@@ -54,7 +54,7 @@ title: Collaborators
 
 
 
-
+<!--
 - [Dr. Ghulam Bilal]() from National Center for Livestock Breeding, Genetics and Genomics, [Dr. Hafiz Muhamad Waheed](), and [Dr. Andelib Qayyum]() from Pir Mehr Ali Shah Arid Agriculture University in Pakistan joined the project! (2026.07.02)
 - [Dr. Pradeepa Silva](https://scholar.google.com/citations?user=0to1jJAAAAAJ&hl=en) from the University of Peradeniya in Sri Lanka has joined the project! (2026.06.19)
 - [Dr. Qingyou Liu](https://orcid.org/0000-0003-3265-540X) from South China Agricultural University has joined the project! (2026.03.25)
@@ -97,4 +97,5 @@ title: Collaborators
     - The current water buffalo reference genome was created here. The storage of sequenced WGS data and bioinformatics pipeline for this project will be handled here.
 - The [Philippine Carabao Center](https://www.pcc.gov.ph/) has joined the project! (2022.08.31)
     - They can contribute samples from Philippine swamp-type buffalo and river-type buffaloes - Bulgarian Murrah, Brazilian Murrah, Italian Murrah (island born and original)
+    -->
     <!-- - They also have some SNP data from the 90K SNP panel for the above mentioned breeds -->
