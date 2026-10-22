@@ -9,14 +9,14 @@ title: Collaborators
 | Bangladesh Livestock Research Institute  | [Dr. Gautam Kumar Deb](https://scholar.google.com/citations?user=-mJvYHYAAAAJ&hl=en)  |
 | Chattogram Veterinary and Animal Sciences University |[Dr. Ashutosh Das](https://scholar.google.com/citations?user=tlFVNtgAAAAJ&hl=en) |
 | **Brazil** |  |
-| Universidade Estadual Paulista (UNESP) | Dr. Humberto Tonhati |
-| Universidade Federal da Bahia (UFBA) | Dr. Gregório Miguel Ferreira de Camargo |
+| Universidade Estadual Paulista (UNESP) | [Dr Humberto Tonhati](https://bv.fapesp.br/en/pesquisador/5974/humberto-tonhati) |
+| Universidade Federal da Bahia (UFBA) | [Dr Gregório Miguel Ferreira de Camargo](http://www.emevz.ufba.br/prof-dr-gregorio-miguel-ferreira-de-camargo)|
 | **China** |  |
-| China Academy of Agriculture | Dr. Jianlin Han |
-| China Agricultural University | Dr. Yi Zhang |
-| Huazhong Agricultural University | Dr. Yang Zhou |
-| Hunan Agricultural University | Dr. Mei Liu |
-| South China Agricultural University | Dr. Qingyou Liu |
+| China Academy of Agriculture | [Dr. Jianlin Han](https://www.researchgate.net/profile/Han-Jianlin/publications)|
+| China Agricultural University | [Dr Yi Zhang](https://www.researchgate.net/profile/Yi-Zhang-256) |
+| Huazhong Agricultural University | Dr. Yang Zhou #verify Yang Zhou links|
+| Hunan Agricultural University | [Dr Mei Liu](https://www.researchgate.net/profile/Mei-Liu-18)|
+| South China Agricultural University | Dr. Qingyou Liu](https://orcid.org/0000-0003-3265-540X)|
 | **Columbia** |  |
 | Universidad CES | Dr. Divier Antonio Agudelo Gómez |
 | **India** |  |
@@ -82,7 +82,7 @@ title: Collaborators
 - [Dr Dwi Sendi Priyono](https://acadstaff.ugm.ac.id/dwisendipriyono) from Universitas Gadjah Mada, Indonesia has joined the project!
 - [Dr Akhmad Dakhlan](https://orcid.org/0000-0002-8438-6777) from Universitas Lampung, Indonesia has joined the project!
 - [Dr Mei Liu](https://www.researchgate.net/profile/Mei-Liu-18) from Hunan Agricultural University, China has joined the project!
-- [Dr Yang Zhou]() from Huazhong Agricultural University, China has joined the project!
+- [Dr Yang Zhou]() from Huazhong Agricultural University, China has joined the project! 
 - [Prof John Williams](https://pag.confex.com/pag/xxvi/meetingapp.cgi/Person/37549) from Università Cattolica del Sacro Cuore, Italy has joined the project!
 - [Dr. Jianlin Han](https://www.researchgate.net/profile/Han-Jianlin/publications) from China Academy of Agriculture has joined the project!
 - [Dr Yi Zhang](https://www.researchgate.net/profile/Yi-Zhang-256) from China Agricultural University has joined the project!
