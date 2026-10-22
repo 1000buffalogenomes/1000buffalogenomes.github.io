@@ -93,7 +93,7 @@ Vietnam National University- Dr. Do Duc Luc, Dr. Nguyen Hoang Thinh
 |**Sri Lanka** |  |
 | University of Peradeniya | Dr. Pradeepa Silva |
 | **Scotland** | | 
-| Dr. James Prendergast <br>  Dr. Fazeela Arshad |
+| University of Edinburgh | Dr. James Prendergast <br>  Dr. Fazeela Arshad |
 | **Thailand** |  |
 | Department of Livestock Development | Dr. Siri Tuk |
 | Suranaree University of Technology | Dr. Rangsun Parnpai |
