@@ -86,10 +86,12 @@ Vietnam National University- Dr. Do Duc Luc, Dr. Nguyen Hoang Thinh
 | **Iran** |  |
 | Urmia University | Dr. Mahdi Mokhber |
 | **Pakistan** |  |
+| National Center for Livestock Breeding, Genetics and Genomics | Dr. Ghulam Bilal| 
+| Pir Mehr Ali Shah Arid Agriculture University | Andelib Qayyum <br> Dr. Hafiz Muhamad Waheed | 
 | University of Veterinary and Animal Science Lahore | Dr. Ali Raza Awan <br> Dr. Maryam Javed |
 | Virtual University of Pakistan- Lahore | Dr. Asif Nadeem <br> Dr. Tanveer Hussain |
 | **Philippines** |  |
-| Philippine Carabao Center | Connie Joyce Parac<br> Dr. Ester Flores<br> Dr. Paulene Pineda |
+| Philippine Carabao Center | Connie Joyce Parac <br> Dr. Ester Flores<br> Dr. Paulene Pineda |
 |**Sri Lanka** |  |
 | University of Peradeniya | Dr. Pradeepa Silva |
 | **Scotland** | | 
