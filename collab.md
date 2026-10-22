@@ -51,7 +51,7 @@ title: Collaborators
 | **USA** |  |
 | Washington State University | [Dr Zhihua Jiang](https://ansci.wsu.edu/people/faculty/zhihua-jiang/) |
 | **Vietnam** |  |
-| Vietnam National University | Dr. Do Duc Luc<br>Dr. Nguyen Hoang Thinh |
+| Vietnam National University | [Dr. Do Duc Luc(]https://scholar.google.com/citations?user=vkqhHMkAAAAJ&hl=en)<br>[Dr. Nguyen Hoang Thinh](https://scholar.google.com/citations?user=SBEmRMIAAAAJ&hl=en) |
 
 
 
