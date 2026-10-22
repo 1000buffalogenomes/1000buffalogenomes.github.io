@@ -4,7 +4,7 @@ title: Collaborators
 ---
 
 | **Australia** |  |
-| The University of Adelaide | Dr. Lloyd Low <br> Dr. Mehar Khatkar |
+| Adelaide University | [Dr. Lloyd Low](https://researchers.adelaide.edu.au/profile/wai.low) <br> [Dr. Mehar Khatkar](https://researchers.adelaide.edu.au/profile/mehar.khatkar) |
 | **Bangladesh** |  |
 | Bangladesh Livestock Research Institute  | [Dr. Gautam Kumar Deb](https://scholar.google.com/citations?user=-mJvYHYAAAAJ&hl=en)  |
 | Chattogram Veterinary and Animal Sciences University |[Dr. Ashutosh Das](https://scholar.google.com/citations?user=tlFVNtgAAAAJ&hl=en) |
@@ -16,13 +16,13 @@ title: Collaborators
 | China Agricultural University | [Dr Yi Zhang](https://www.researchgate.net/profile/Yi-Zhang-256) |
 | Huazhong Agricultural University | Dr. Yang Zhou #verify Yang Zhou links|
 | Hunan Agricultural University | [Dr Mei Liu](https://www.researchgate.net/profile/Mei-Liu-18)|
-| South China Agricultural University | Dr. Qingyou Liu](https://orcid.org/0000-0003-3265-540X)|
+| South China Agricultural University | [Dr. Qingyou Liu](https://orcid.org/0000-0003-3265-540X)|
 | **Columbia** |  |
-| Universidad CES | Dr. Divier Antonio Agudelo Gómez |
+| Universidad CES |[Dr. Divier Antonio Agudelo Gómez](https://scholar.google.com/citations?user=-vFrWSgAAAAJ&hl=es)|
 | **India** |  |
-| ICAR-National Bureau of Animal Genetic Resources | Dr. Manishi Mukesh <br> Dr. Pawan Singh |
+| ICAR-National Bureau of Animal Genetic Resources | [Dr Manishi Mukesh](https://nbagr.icar.gov.in/en/manishi-mukesh/) <br> [Dr. Pawan Singh]() # verify link|
 | Progressive Dairy Farmers Association | Dr. Jaswinder Singh Bhatti |
-| Tamil Nadu Veterinary and Animal Sciences University | Dr. Kumarasamy Peria Gounder <br>  Dr. Chitra Ramasamy <br> Dr. Malarmathi Muthusamy|
+| Tamil Nadu Veterinary and Animal Sciences University | [Dr P.Kumarasamy](https://tanuvas.ac.in/faculty-details.php?sid=585) <br>  [Dr. Chitra Ramasamy](https://tanuvas.irins.org/profile/297751)  <br> [Dr. Malarmathi Muthusamy](https://scholar.google.com/citations?user=9eNAX8oAAAAJ&hl=en)|
 | **Indonesia** |  |
 | Universitas Gadjah Mada | Dr. Dwi Sendi Priyono |
 | Universitas Lampung | Dr. Akhmad Dakhlan |
