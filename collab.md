@@ -21,13 +21,13 @@ title: Collaborators
 | Universidad CES |[Dr. Divier Antonio Agudelo Gómez](https://scholar.google.com/citations?user=-vFrWSgAAAAJ&hl=es)|
 | **India** |  |
 | ICAR-National Bureau of Animal Genetic Resources | [Dr Manishi Mukesh](https://nbagr.icar.gov.in/en/manishi-mukesh/) <br> [Dr. Pawan Singh]() # verify link|
-| Progressive Dairy Farmers Association | Dr. Jaswinder Singh Bhatti |
+| Progressive Dairy Farmers Association | Dr. Jaswinder Singh Bhatti # link missing|
 | Tamil Nadu Veterinary and Animal Sciences University | [Dr P.Kumarasamy](https://tanuvas.ac.in/faculty-details.php?sid=585) <br>  [Dr. Chitra Ramasamy](https://tanuvas.irins.org/profile/297751)  <br> [Dr. Malarmathi Muthusamy](https://scholar.google.com/citations?user=9eNAX8oAAAAJ&hl=en)|
 | **Indonesia** |  |
-| Universitas Gadjah Mada | Dr. Dwi Sendi Priyono |
-| Universitas Lampung | Dr. Akhmad Dakhlan |
+| Universitas Gadjah Mada |[Dr Dwi Sendi Priyono](https://acadstaff.ugm.ac.id/dwisendipriyono)|
+| Universitas Lampung | Dr Akhmad Dakhlan](https://orcid.org/0000-0002-8438-6777) |
 | **Italy** |  |
-| Institute of Agricultural Biology and Biotechnology (IBBA-CNR/ANASB) | Dr. Mayra Gómez Carpio<br>Dr. Roberta Cimmino<br>Dr. Stefano Biffani |
+| Institute of Agricultural Biology and Biotechnology (IBBA-CNR/ANASB) | [Dr. Mayra Gomez Carpio](https://orcid.org/0000-0002-3426-2231) <br>Dr. [Dr. Roberta Cimmino](https://orcid.org/0000-0002-0146-1787)  <br> [Stefano Biffani](https://ibba.cnr.it/staff/stefano-biffani/)  |
 | Università Cattolica del Sacro Cuore | Dr. Ajmone Marsan Paolo<br>Dr. John Williams<br>Dr. Licia Colli |
 | **Iran** |  |
 | Urmia University | Dr. Mahdi Mokhber |
