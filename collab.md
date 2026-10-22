@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Collaborators
-
+---
 
 | **Australia** |  |
 | The University of Adelaide | Dr. Lloyd Low<br>Dr. Mehar Khatkar |
@@ -54,7 +54,7 @@ title: Collaborators
 
 
 
----
+
 - [Dr. Ghulam Bilal]() from National Center for Livestock Breeding, Genetics and Genomics, [Dr. Hafiz Muhamad Waheed](), and [Dr. Andelib Qayyum]() from Pir Mehr Ali Shah Arid Agriculture University in Pakistan joined the project! (2026.07.02)
 - [Dr. Pradeepa Silva](https://scholar.google.com/citations?user=0to1jJAAAAAJ&hl=en) from the University of Peradeniya in Sri Lanka has joined the project! (2026.06.19)
 - [Dr. Qingyou Liu](https://orcid.org/0000-0003-3265-540X) from South China Agricultural University has joined the project! (2026.03.25)
