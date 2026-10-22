@@ -4,10 +4,10 @@ title: Collaborators
 ---
 
 | **Australia** |  |
-| The University of Adelaide | Dr. Lloyd Low<br>Dr. Mehar Khatkar |
+| The University of Adelaide | Dr. Lloyd Low <br> Dr. Mehar Khatkar |
 | **Bangladesh** |  |
-| Bangladesh Livestock Research Institute  | Dr. Gautam Kumar Deb |
-| Chattogram Veterinary and Animal Sciences University | Dr. Ashutosh Das |
+| Bangladesh Livestock Research Institute  | [Dr. Gautam Kumar Deb](https://scholar.google.com/citations?user=-mJvYHYAAAAJ&hl=en)  |
+| Chattogram Veterinary and Animal Sciences University |[Dr. Ashutosh Das](https://scholar.google.com/citations?user=tlFVNtgAAAAJ&hl=en) |
 | **Brazil** |  |
 | Universidade Estadual Paulista (UNESP) | Dr. Humberto Tonhati |
 | Universidade Federal da Bahia (UFBA) | Dr. Gregório Miguel Ferreira de Camargo |
