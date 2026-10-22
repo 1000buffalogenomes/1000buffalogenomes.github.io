@@ -33,7 +33,7 @@ title: Collaborators
 | Urmia University | [Dr Mahdi Mokhber](http://facultystaff.urmia.ac.ir/Site/CV.aspx?STID=577&Ln=en) |
 | **Pakistan** |  |
 | National Center for Livestock Breeding, Genetics and Genomics | [Dr. Ghulam Bilal](https://scholar.google.com/citations?user=uKMDAh0AAAAJ&hl=en)| 
-| Pir Mehr Ali Shah Arid Agriculture University | [Dr. Andelib Qayyum]() <br> [Dr. Hafiz Muhamad Waheed]() | 
+| Pir Mehr Ali Shah Arid Agriculture University | [Dr. Andelib Qayyum](https://www.researchgate.net/profile/Andelib-Qayyum) <br> [Dr. Hafiz Muhamad Waheed](https://www.researchgate.net/profile/H-Waheed) | 
 | University of Veterinary and Animal Science Lahore | [Prof Dr Ali Raza Awan](https://uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/ali_raza.htm) <br> [Dr. Maryam Javed](https://www.uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/maryam-javed.htm)|
 | Virtual University of Pakistan- Lahore | [Dr. Asif Nadeem](https://uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/asif.htm) <br> [Dr. Tanveer Hussain](https://www.vu.edu.pk/AboutUs/Profile?profileID=1437&Dept=) |
 | National Institute of Biotechnology and Genetic Engineering | [Muhammad Asif](https://scholar.google.com/citations?user=rGQYjSAAAAAJ&hl=en)
