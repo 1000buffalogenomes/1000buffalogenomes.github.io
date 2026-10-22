@@ -32,7 +32,7 @@ title: Collaborators
 | **Iran** |  |
 | Urmia University | [Dr Mahdi Mokhber](http://facultystaff.urmia.ac.ir/Site/CV.aspx?STID=577&Ln=en) |
 | **Pakistan** |  |
-| National Center for Livestock Breeding, Genetics and Genomics | [Dr. Ghulam Bilal]()| 
+| National Center for Livestock Breeding, Genetics and Genomics | [Dr. Ghulam Bilal](https://scholar.google.com/citations?user=uKMDAh0AAAAJ&hl=en)| 
 | Pir Mehr Ali Shah Arid Agriculture University | [Dr. Andelib Qayyum]() <br> [Dr. Hafiz Muhamad Waheed]() | 
 | University of Veterinary and Animal Science Lahore | [Prof Dr Ali Raza Awan](https://uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/ali_raza.htm) <br> [Dr. Maryam Javed](https://www.uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/maryam-javed.htm)|
 | Virtual University of Pakistan- Lahore | [Dr. Asif Nadeem](https://uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/asif.htm) <br> [Dr. Tanveer Hussain](https://www.vu.edu.pk/AboutUs/Profile?profileID=1437&Dept=) |
@@ -44,11 +44,11 @@ title: Collaborators
 | University of Edinburgh | [Dr. James Prendergast](https://edwebprofiles.ed.ac.uk/profile/james-prendergast) <br> [Dr. Fazeela Arshad](https://www.researchgate.net/profile/Fazeela-Arshad) |
 | **Thailand** |  |
 | Department of Livestock Development | Dr. Siri Tuk |
-| Suranaree University of Technology | Dr. Rangsun Parnpai |
+| Suranaree University of Technology | [Dr Rangsun Parnpai](https://beta.sut.ac.th/iat/en/academic-staff/assoc-prof-rangsun-parnpai-phd) |
 | **Turkey** |  |
-| Tekirdag Namık Kemal University | Dr. Emel Özkan Unal<br>Dr. M.İhsan Soysal<br>Dr. Raziye Isik |
+| Tekirdag Namık Kemal University | [Dr. Emel Özkan Unal](https://scholar.google.com/citations?user=0TDLgMoAAAAJ&hl=en)<br>Dr. M.İhsan Soysal<br>Dr. [Raziye Isik](https://orcid.org/0000-0003-2982-6562) |
 | **USA** |  |
-| Washington State University | Dr. Zhihua Jiang |
+| Washington State University | [Dr Zhihua Jiang](https://ansci.wsu.edu/people/faculty/zhihua-jiang/) |
 | **Vietnam** |  |
 | Vietnam National University | Dr. Do Duc Luc<br>Dr. Nguyen Hoang Thinh |
 
