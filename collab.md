@@ -14,7 +14,7 @@ title: Collaborators
 | **China** |  |
 | China Academy of Agriculture | [Dr. Jianlin Han](https://www.researchgate.net/profile/Han-Jianlin/publications)|
 | China Agricultural University | [Dr Yi Zhang](https://www.researchgate.net/profile/Yi-Zhang-256) |
-| Huazhong Agricultural University | Dr. Yang Zhou #verify Yang Zhou links|
+| Huazhong Agricultural University | Dr. Yang Zhou #verify links|
 | Hunan Agricultural University | [Dr Mei Liu](https://www.researchgate.net/profile/Mei-Liu-18)|
 | South China Agricultural University | [Dr. Qingyou Liu](https://orcid.org/0000-0003-3265-540X)|
 | **Columbia** |  |
@@ -25,23 +25,23 @@ title: Collaborators
 | Tamil Nadu Veterinary and Animal Sciences University | [Dr P.Kumarasamy](https://tanuvas.ac.in/faculty-details.php?sid=585) <br>  [Dr. Chitra Ramasamy](https://tanuvas.irins.org/profile/297751)  <br> [Dr. Malarmathi Muthusamy](https://scholar.google.com/citations?user=9eNAX8oAAAAJ&hl=en)|
 | **Indonesia** |  |
 | Universitas Gadjah Mada |[Dr Dwi Sendi Priyono](https://acadstaff.ugm.ac.id/dwisendipriyono)|
-| Universitas Lampung | Dr Akhmad Dakhlan](https://orcid.org/0000-0002-8438-6777) |
+| Universitas Lampung | [Dr Akhmad Dakhlan](https://orcid.org/0000-0002-8438-6777) |
 | **Italy** |  |
 | Institute of Agricultural Biology and Biotechnology (IBBA-CNR/ANASB) | [Dr. Mayra Gomez Carpio](https://orcid.org/0000-0002-3426-2231) <br>Dr. [Dr. Roberta Cimmino](https://orcid.org/0000-0002-0146-1787)  <br> [Stefano Biffani](https://ibba.cnr.it/staff/stefano-biffani/)  |
-| Università Cattolica del Sacro Cuore | Dr. Ajmone Marsan Paolo<br>Dr. John Williams<br>Dr. Licia Colli |
+| Università Cattolica del Sacro Cuore | [Dr Ajmone Marsan Paolo](https://docenti.unicatt.it/ppd2/en/docenti/12543/paolo-ajmone-marsan/pubblicazioni) <br> [John Williams](https://orcid.org/0000-0001-5188-7957) <br> [Dr Licia Colli](https://docenti.unicatt.it/ppd2/it/docenti/22106/licia-colli/profilo) |
 | **Iran** |  |
-| Urmia University | Dr. Mahdi Mokhber |
+| Urmia University | [Dr Mahdi Mokhber](http://facultystaff.urmia.ac.ir/Site/CV.aspx?STID=577&Ln=en) |
 | **Pakistan** |  |
-| National Center for Livestock Breeding, Genetics and Genomics | Dr. Ghulam Bilal| 
-| Pir Mehr Ali Shah Arid Agriculture University | Andelib Qayyum <br> Dr. Hafiz Muhamad Waheed | 
-| University of Veterinary and Animal Science Lahore | Dr. Ali Raza Awan <br> Dr. Maryam Javed |
-| Virtual University of Pakistan- Lahore | Dr. Asif Nadeem <br> Dr. Tanveer Hussain |
+| National Center for Livestock Breeding, Genetics and Genomics | [Dr. Ghulam Bilal]()| 
+| Pir Mehr Ali Shah Arid Agriculture University | [Dr. Andelib Qayyum]() <br> [Dr. Hafiz Muhamad Waheed]() | 
+| University of Veterinary and Animal Science Lahore | [Prof Dr Ali Raza Awan](https://uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/ali_raza.htm) <br> [Dr. Maryam Javed](https://www.uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/maryam-javed.htm)|
+| Virtual University of Pakistan- Lahore | [Dr. Asif Nadeem](https://uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/asif.htm) <br> [Dr. Tanveer Hussain](https://www.vu.edu.pk/AboutUs/Profile?profileID=1437&Dept=) |
 | **Philippines** |  |
-| Philippine Carabao Center | Connie Joyce Parac <br> Dr. Ester Flores<br> Dr. Paulene Pineda |
+| Philippine Carabao Center | Connie Joyce Parac <br> [Dr. Ester Flores](https://scholar.google.com/citations?user=yN1_tzwAAAAJ&hl=en) <br> [Dr. Paulene Pineda](https://scholar.google.com/citations?user=hvrE-18AAAAJ&hl=en)|
 |**Sri Lanka** |  |
-| University of Peradeniya | Dr. Pradeepa Silva |
+| University of Peradeniya | [Dr. Pradeepa Silva](https://scholar.google.com/citations?user=0to1jJAAAAAJ&hl=en)|
 | **Scotland** | | 
-| University of Edinburgh | Dr. James Prendergast <br>  Dr. Fazeela Arshad |
+| University of Edinburgh | [Dr. James Prendergast](https://edwebprofiles.ed.ac.uk/profile/james-prendergast) <br> [Dr. Fazeela Arshad](https://www.researchgate.net/profile/Fazeela-Arshad) |
 | **Thailand** |  |
 | Department of Livestock Development | Dr. Siri Tuk |
 | Suranaree University of Technology | Dr. Rangsun Parnpai |
