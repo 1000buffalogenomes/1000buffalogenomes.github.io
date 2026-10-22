@@ -36,6 +36,7 @@ title: Collaborators
 | Pir Mehr Ali Shah Arid Agriculture University | [Dr. Andelib Qayyum]() <br> [Dr. Hafiz Muhamad Waheed]() | 
 | University of Veterinary and Animal Science Lahore | [Prof Dr Ali Raza Awan](https://uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/ali_raza.htm) <br> [Dr. Maryam Javed](https://www.uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/maryam-javed.htm)|
 | Virtual University of Pakistan- Lahore | [Dr. Asif Nadeem](https://uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/asif.htm) <br> [Dr. Tanveer Hussain](https://www.vu.edu.pk/AboutUs/Profile?profileID=1437&Dept=) |
+| National Institute of Biotechnology and Genetic Engineering | [Muhammad Asif](https://scholar.google.com/citations?user=rGQYjSAAAAAJ&hl=en)
 | **Philippines** |  |
 | Philippine Carabao Center | Connie Joyce Parac <br> [Dr. Ester Flores](https://scholar.google.com/citations?user=yN1_tzwAAAAJ&hl=en) <br> [Dr. Paulene Pineda](https://scholar.google.com/citations?user=hvrE-18AAAAJ&hl=en)|
 |**Sri Lanka** |  |
