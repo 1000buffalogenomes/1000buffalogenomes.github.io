@@ -92,6 +92,8 @@ Vietnam National University- Dr. Do Duc Luc, Dr. Nguyen Hoang Thinh
 | Philippine Carabao Center | Connie Joyce Parac<br> Dr. Ester Flores<br> Dr. Paulene Pineda |
 |**Sri Lanka** |  |
 | University of Peradeniya | Dr. Pradeepa Silva |
+| **Scotland** | | 
+| Dr. James Prendergast <br>  Dr. Fazeela Arshad |
 | **Thailand** |  |
 | Department of Livestock Development | Dr. Siri Tuk |
 | Suranaree University of Technology | Dr. Rangsun Parnpai |
