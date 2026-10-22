@@ -51,7 +51,7 @@ title: Collaborators
 | **USA** |  |
 | Washington State University | [Dr Zhihua Jiang](https://ansci.wsu.edu/people/faculty/zhihua-jiang/) |
 | **Vietnam** |  |
-| Vietnam National University | [Dr. Do Duc Luc(]https://scholar.google.com/citations?user=vkqhHMkAAAAJ&hl=en)<br>[Dr. Nguyen Hoang Thinh](https://scholar.google.com/citations?user=SBEmRMIAAAAJ&hl=en) |
+| Vietnam National University | [Dr. Do Duc Luc](https://scholar.google.com/citations?user=vkqhHMkAAAAJ&hl=en)<br>[Dr. Nguyen Hoang Thinh](https://scholar.google.com/citations?user=SBEmRMIAAAAJ&hl=en) |
 
 
 
@@ -99,4 +99,4 @@ title: Collaborators
 - The [Philippine Carabao Center](https://www.pcc.gov.ph/) has joined the project! (2022.08.31)
     - They can contribute samples from Philippine swamp-type buffalo and river-type buffaloes - Bulgarian Murrah, Brazilian Murrah, Italian Murrah (island born and original)
     -->
-    <!-- - They also have some SNP data from the 90K SNP panel for the above mentioned breeds -->
+<!-- - They also have some SNP data from the 90K SNP panel for the above mentioned breeds -->
