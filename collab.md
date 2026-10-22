@@ -4,7 +4,7 @@ title: Collaborations
 ---
 
 - [Dr. Pradeepa Silva](https://scholar.google.com/citations?user=0to1jJAAAAAJ&hl=en) from the University of Peradeniya in Sri Lanka has joined the project! (2026.06.19)
-- [Dr. Qingyou Liu]() from South China Agricultural University has joined the project! (2026.03.25)
+- [Dr. Qingyou Liu](https://orcid.org/0000-0003-3265-540X) from South China Agricultural University has joined the project! (2026.03.25)
 - [Dr. Chitra Ramasamy](https://tanuvas.irins.org/profile/297751) from Tamil Nadu Veterinary and Animal Science in India has joined the project! (2026.02.10)
 - [Dr. Gautam Kumar Deb](https://scholar.google.com/citations?user=-mJvYHYAAAAJ&hl=en) from Bangladesh Livestock Research Institute and [Dr. Ashutosh Das](https://scholar.google.com/citations?user=tlFVNtgAAAAJ&hl=en) from Chattogram Veterinary and Animal Sciences University in Bangladesh have joined the project! (2025.11.28)
 - [Dr. Pawan Singh]() from ICAR-National Dairy Research Institute in India has joined the project!
@@ -22,7 +22,7 @@ title: Collaborations
 - The [Department of Livestock Development](https://dld.go.th/th/index.php/th/) from Thailand has joined the project!
 - The [Progressive Dairy Farmers Association](https://www.pdfa.org.in/) from India has joined the project!
 - [Dr Ajmone Marsan Paolo](https://docenti.unicatt.it/ppd2/en/docenti/12543/paolo-ajmone-marsan/pubblicazioni), [John Williams](https://orcid.org/0000-0001-5188-7957), and [Dr Licia Colli](https://docenti.unicatt.it/ppd2/it/docenti/22106/licia-colli/profilo) from Università Cattolica del Sacro Cuore has joined the project!
-- [Dr Emel Özkan Unal, Dr M.İhsan Soysal and Dr Raziye Isik](http://www.nku.edu.tr/) from Tekirdag Namık Kemal University has joined the project!
+- [Dr Emel Özkan Unal, Dr M.İhsan Soysal and Dr Raziye Isik](http://www.nku.edu.tr/) from Tekirdag Namık Kemal University have joined the project!
 - [Dr Gregório Miguel Ferreira de Camargo](http://www.emevz.ufba.br/prof-dr-gregorio-miguel-ferreira-de-camargo) has joined the project!
 - [Dr Mahdi Mokhber](http://facultystaff.urmia.ac.ir/Site/CV.aspx?STID=577&Ln=en) from Urmia University, Iran has joined the project!
 - [Dr Rangsun Parnpai](https://beta.sut.ac.th/iat/en/academic-staff/assoc-prof-rangsun-parnpai-phd) from Suranaree University of Technology, Thailand has joined the project!
