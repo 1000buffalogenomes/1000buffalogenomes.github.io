@@ -1,6 +1,59 @@
 ---
 layout: page
-title: Collaborations
+title: Collaborators
+
+
+| **Australia** |  |
+| The University of Adelaide | Dr. Lloyd Low<br>Dr. Mehar Khatkar |
+| **Bangladesh** |  |
+| Bangladesh Livestock Research Institute  | Dr. Gautam Kumar Deb |
+| Chattogram Veterinary and Animal Sciences University | Dr. Ashutosh Das |
+| **Brazil** |  |
+| Universidade Estadual Paulista (UNESP) | Dr. Humberto Tonhati |
+| Universidade Federal da Bahia (UFBA) | Dr. Gregório Miguel Ferreira de Camargo |
+| **China** |  |
+| China Academy of Agriculture | Dr. Jianlin Han |
+| China Agricultural University | Dr. Yi Zhang |
+| Huazhong Agricultural University | Dr. Yang Zhou |
+| Hunan Agricultural University | Dr. Mei Liu |
+| South China Agricultural University | Dr. Qingyou Liu |
+| **Columbia** |  |
+| Universidad CES | Dr. Divier Antonio Agudelo Gómez |
+| **India** |  |
+| ICAR-National Bureau of Animal Genetic Resources | Dr. Manishi Mukesh <br> Dr. Pawan Singh |
+| Progressive Dairy Farmers Association | Dr. Jaswinder Singh Bhatti |
+| Tamil Nadu Veterinary and Animal Sciences University | Dr. Kumarasamy Peria Gounder <br>  Dr. Chitra Ramasamy <br> Dr. Malarmathi Muthusamy|
+| **Indonesia** |  |
+| Universitas Gadjah Mada | Dr. Dwi Sendi Priyono |
+| Universitas Lampung | Dr. Akhmad Dakhlan |
+| **Italy** |  |
+| Institute of Agricultural Biology and Biotechnology (IBBA-CNR/ANASB) | Dr. Mayra Gómez Carpio<br>Dr. Roberta Cimmino<br>Dr. Stefano Biffani |
+| Università Cattolica del Sacro Cuore | Dr. Ajmone Marsan Paolo<br>Dr. John Williams<br>Dr. Licia Colli |
+| **Iran** |  |
+| Urmia University | Dr. Mahdi Mokhber |
+| **Pakistan** |  |
+| National Center for Livestock Breeding, Genetics and Genomics | Dr. Ghulam Bilal| 
+| Pir Mehr Ali Shah Arid Agriculture University | Andelib Qayyum <br> Dr. Hafiz Muhamad Waheed | 
+| University of Veterinary and Animal Science Lahore | Dr. Ali Raza Awan <br> Dr. Maryam Javed |
+| Virtual University of Pakistan- Lahore | Dr. Asif Nadeem <br> Dr. Tanveer Hussain |
+| **Philippines** |  |
+| Philippine Carabao Center | Connie Joyce Parac <br> Dr. Ester Flores<br> Dr. Paulene Pineda |
+|**Sri Lanka** |  |
+| University of Peradeniya | Dr. Pradeepa Silva |
+| **Scotland** | | 
+| University of Edinburgh | Dr. James Prendergast <br>  Dr. Fazeela Arshad |
+| **Thailand** |  |
+| Department of Livestock Development | Dr. Siri Tuk |
+| Suranaree University of Technology | Dr. Rangsun Parnpai |
+| **Turkey** |  |
+| Tekirdag Namık Kemal University | Dr. Emel Özkan Unal<br>Dr. M.İhsan Soysal<br>Dr. Raziye Isik |
+| **USA** |  |
+| Washington State University | Dr. Zhihua Jiang |
+| **Vietnam** |  |
+| Vietnam National University | Dr. Do Duc Luc<br>Dr. Nguyen Hoang Thinh |
+
+
+
 ---
 - [Dr. Ghulam Bilal]() from National Center for Livestock Breeding, Genetics and Genomics, [Dr. Hafiz Muhamad Waheed](), and [Dr. Andelib Qayyum]() from Pir Mehr Ali Shah Arid Agriculture University in Pakistan joined the project! (2026.07.02)
 - [Dr. Pradeepa Silva](https://scholar.google.com/citations?user=0to1jJAAAAAJ&hl=en) from the University of Peradeniya in Sri Lanka has joined the project! (2026.06.19)
