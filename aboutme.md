@@ -9,14 +9,13 @@ The project is at its run 2 stage and we still welcome you to join the 1000 Buff
 </div></p>
 
 <p><div style="text-align: justify">
-The 1000 Buffalo Genomes Project is a collaboration of various organisations and research groups with the goal of sequencing different swamp- and river-type buffalo populations.
+The 1000 Buffalo Genomes Project is a collaboration of various organisations and research groups with the goal of sequencing different swamp- and river-type buffalo populations. <a href="https://github.io">Members of the consortium are here</a>
+
 </div></p>
 
-### Collaborators
-
+<!--
 Contributors listed alphabetically by country: 
 
-<!--
 **Australia**\
 The University of Adelaide- Dr. Lloyd Low, Dr. Mehar Khatkar\
 **Bangladesh**\
@@ -56,7 +55,7 @@ Washington State University- Dr. Zhihua Jiang\
 Vietnam National University- Dr. Do Duc Luc, Dr. Nguyen Hoang Thinh
 -->
 
-
+<!--
 | **Australia** |  |
 | The University of Adelaide | Dr. Lloyd Low<br>Dr. Mehar Khatkar |
 | **Bangladesh** |  |
@@ -105,7 +104,7 @@ Vietnam National University- Dr. Do Duc Luc, Dr. Nguyen Hoang Thinh
 | Washington State University | Dr. Zhihua Jiang |
 | **Vietnam** |  |
 | Vietnam National University | Dr. Do Duc Luc<br>Dr. Nguyen Hoang Thinh |
-
+-->
 
 
 ### Goals
