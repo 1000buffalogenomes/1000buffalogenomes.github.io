@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Committee
-published: false
+<!-- published: false --> 
 nav_exclude: true
 search_exclude: true
 ---
