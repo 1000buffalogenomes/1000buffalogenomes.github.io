@@ -4,7 +4,7 @@ title: Collaborators
 ---
 
 | **Australia** |  |
-| Adelaide University | [Dr. Lloyd Low](https://researchers.adelaide.edu.au/profile/wai.low)<sup>Lead</sup> <br> [Dr. Mehar Khatkar](https://researchers.adelaide.edu.au/profile/mehar.khatkar) |
+| Adelaide University | [Dr. Lloyd Low](https://researchers.adelaide.edu.au/profile/wai.low) <sup>Lead</sup> <br> [Dr. Mehar Khatkar](https://researchers.adelaide.edu.au/profile/mehar.khatkar) |
 | **Bangladesh** |  |
 | Bangladesh Livestock Research Institute  | [Dr. Gautam Kumar Deb](https://scholar.google.com/citations?user=-mJvYHYAAAAJ&hl=en)  |
 | Chattogram Veterinary and Animal Sciences University |[Dr. Ashutosh Das](https://scholar.google.com/citations?user=tlFVNtgAAAAJ&hl=en) |
