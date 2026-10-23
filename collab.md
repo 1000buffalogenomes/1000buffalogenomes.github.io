@@ -20,7 +20,7 @@ title: Collaborators
 | **Columbia** |  |
 | Universidad CES |[Dr. Divier Antonio Agudelo Gómez](https://scholar.google.com/citations?user=-vFrWSgAAAAJ&hl=es)|
 | **India** |  |
-| ICAR-National Bureau of Animal Genetic Resources | [Dr Manishi Mukesh](https://nbagr.icar.gov.in/en/manishi-mukesh/) <br> [Dr. Pawan Singh]() # verify link|
+| ICAR-National Bureau of Animal Genetic Resources | [Dr Manishi Mukesh](https://nbagr.icar.gov.in/en/manishi-mukesh/) <br> [Dr. Pawan Singh](https://scholar.google.com/citations?user=GTNnCrEAAAAJ&hl=en)|
 | Progressive Dairy Farmers Association | Dr. Jaswinder Singh Bhatti # link missing|
 | Tamil Nadu Veterinary and Animal Sciences University | [Dr P.Kumarasamy](https://tanuvas.ac.in/faculty-details.php?sid=585) <br>  [Dr. Chitra Ramasamy](https://tanuvas.irins.org/profile/297751)  <br> [Dr. Malarmathi Muthusamy](https://scholar.google.com/citations?user=9eNAX8oAAAAJ&hl=en)|
 | **Indonesia** |  |
@@ -47,7 +47,7 @@ title: Collaborators
 | Department of Livestock Development | Dr. Siri Tuk |
 | Suranaree University of Technology | [Dr Rangsun Parnpai](https://beta.sut.ac.th/iat/en/academic-staff/assoc-prof-rangsun-parnpai-phd) |
 | **Turkey** |  |
-| Tekirdag Namık Kemal University | [Dr. Emel Özkan Unal](https://scholar.google.com/citations?user=0TDLgMoAAAAJ&hl=en)<br>Dr. M.İhsan Soysal<br>Dr. [Raziye Isik](https://orcid.org/0000-0003-2982-6562) |
+| Tekirdag Namık Kemal University | [Dr. Emel Özkan Unal](https://scholar.google.com/citations?user=0TDLgMoAAAAJ&hl=en)<br>[Dr. M.İhsan Soysal](https://scholar.google.com/citations?user=4K6noYAAAAAJ&hl=tr)<br>Dr. [Raziye Isik](https://orcid.org/0000-0003-2982-6562) |
 | **USA** |  |
 | Washington State University | [Dr Zhihua Jiang](https://ansci.wsu.edu/people/faculty/zhihua-jiang/) |
 | **Vietnam** |  |
