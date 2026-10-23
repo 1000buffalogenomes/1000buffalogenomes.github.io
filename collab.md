@@ -42,7 +42,7 @@ title: Collaborators
 |**Sri Lanka** |  |
 | University of Peradeniya | [Dr. Pradeepa Silva](https://scholar.google.com/citations?user=0to1jJAAAAAJ&hl=en)|
 | **Scotland** | | 
-| University of Edinburgh | [Dr. James Prendergast](https://edwebprofiles.ed.ac.uk/profile/james-prendergast) <br> [Dr. Fazeela Arshad](https://www.researchgate.net/profile/Fazeela-Arshad) |
+| University of Edinburgh | [Dr. James Prendergast](https://scholar.google.com/citations?user=4rW5cx4AAAAJ&hl=en) <br> [Dr. Fazeela Arshad](https://www.researchgate.net/profile/Fazeela-Arshad) |
 | **Thailand** |  |
 | Department of Livestock Development | [Dr. Siri Tuk]() |
 | Suranaree University of Technology | [Dr. Rangsun Parnpai](https://beta.sut.ac.th/iat/en/academic-staff/assoc-prof-rangsun-parnpai-phd) |
