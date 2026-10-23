@@ -2,7 +2,7 @@
 layout: page
 title: Committee
 ---
-
+<!--
 Current members of the consortium by country.
 
 **Australia**
@@ -95,8 +95,7 @@ Current members of the consortium by country.
 **Vietnam**
 - Dr. Do Duc Luc
 - Dr. Nguyen Hoang Thinh
-
-
+-->
 <!--
 | Country     | Collaborators                                    |
 |-------------|--------------------------------------------------|
