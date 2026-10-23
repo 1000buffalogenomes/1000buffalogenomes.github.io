@@ -14,7 +14,7 @@ title: Collaborators
 | **China** |  |
 | China Academy of Agriculture | [Dr. Jianlin Han](https://www.researchgate.net/profile/Han-Jianlin/publications)|
 | China Agricultural University | [Dr. Yi Zhang](https://www.researchgate.net/profile/Yi-Zhang-256) |
-| Huazhong Agricultural University | Dr. Yang Zhou #verify links|
+| Huazhong Agricultural University | [Dr. Yang Zhou](https://loop.frontiersin.org/people/839519/overview)|
 | Hunan Agricultural University | [Dr. Mei Liu](https://www.researchgate.net/profile/Mei-Liu-18)|
 | South China Agricultural University | [Dr. Qingyou Liu](https://orcid.org/0000-0003-3265-540X)|
 | **Columbia** |  |
