@@ -1,7 +1,10 @@
+<!--
 ---
 layout: page
 title: Committee
 ---
+-->
+
 <!--
 Current members of the consortium by country.
 
