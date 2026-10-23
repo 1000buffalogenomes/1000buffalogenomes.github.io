@@ -9,7 +9,7 @@ The project is at its run 2 stage and we still welcome you to join the 1000 Buff
 </div></p>
 
 <p><div style="text-align: justify">
-The 1000 Buffalo Genomes Project is a collaboration of various organisations and research groups with the goal of sequencing different swamp- and river-type buffalo populations. Get to know our growing collaboration <a href="https://github.io"> here</a>
+The 1000 Buffalo Genomes Project is a collaboration of various organisations and research groups with the goal of sequencing different swamp- and river-type buffalo populations. Get to know our growing collaboration <a href="https://1000buffalogenomes.github.io/collab/"> here</a>
 
 </div></p>
 
